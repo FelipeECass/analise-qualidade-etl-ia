@@ -1,0 +1,179 @@
+{
+  "rotulo": "claude_sonnet_zeroshot_r2_i1",
+  "empresa": "claude",
+  "modelo": "sonnet",
+  "condicao": "zeroshot",
+  "geracao": "2",
+  "iteracao": "1",
+  "dataHora": "2026-11-14T00:30:57.5752413+00:00",
+  "resultado": {
+    "gabaritoSha256": "334998eecff0ab898bede99cf0b163e2da5d03593bbf39c12558b3064b1df0c7",
+    "solucaoSha256": "30891c7e57d4caf01967174acc7efe47156f858ea5260f51093ce1bd58b100ff",
+    "errosEsquema": [],
+    "avisos": [],
+    "tabelas": [
+      {
+        "tabela": "estacao",
+        "linhasGabarito": 904265,
+        "linhasSolucao": 904265,
+        "acertos": 398046,
+        "divergentes": 506219,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 0.4401873344650075,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": [
+          {
+            "coluna": "endereco",
+            "divergencias": 467176,
+            "exemplos": [
+              {
+                "chave": "uf=\"AL\", fistel=\"50409428698\", num_estacao=\"280500\"",
+                "esperado": "\"MORRO SANTO ANTONIO\"",
+                "obtido": "\"MORRO SANTO ANTÔNIO\""
+              },
+              {
+                "chave": "uf=\"AL\", fistel=\"50409428698\", num_estacao=\"281930\"",
+                "esperado": "\"MORRO ENGENHO TABUACU\"",
+                "obtido": "\"MORRO ENGENHO TABUAÇU\""
+              },
+              {
+                "chave": "uf=\"AL\", fistel=\"50409307637\", num_estacao=\"3757129\"",
+                "esperado": "\"R DESEMBARGADOR TENORIO\"",
+                "obtido": "\"R DESEMBARGADOR TENÓRIO\""
+              },
+              {
+                "chave": "uf=\"AL\", fistel=\"50409307637\", num_estacao=\"3757200\"",
+                "esperado": "\"R OLIMPIO GALVAO\"",
+                "obtido": "\"R OLÍMPIO GALVÃO\""
+              },
+              {
+                "chave": "uf=\"AL\", fistel=\"50409428698\", num_estacao=\"6988261\"",
+                "esperado": "\"RUA ARSENIO FORTES\"",
+                "obtido": "\"RUA ARSÊNIO FORTES\""
+              }
+            ]
+          },
+          {
+            "coluna": "entidade",
+            "divergencias": 79176,
+            "exemplos": [
+              {
+                "chave": "uf=\"AL\", fistel=\"50410534803\", num_estacao=\"699126215\"",
+                "esperado": "\"ARMATUS VIGILANCIA LTDA EPP\"",
+                "obtido": "\"ARMATUS VIGILÂNCIA LTDA EPP\""
+              },
+              {
+                "chave": "uf=\"AL\", fistel=\"50410534803\", num_estacao=\"699111390\"",
+                "esperado": "\"ARMATUS VIGILANCIA LTDA EPP\"",
+                "obtido": "\"ARMATUS VIGILÂNCIA LTDA EPP\""
+              },
+              {
+                "chave": "uf=\"AL\", fistel=\"50410720518\", num_estacao=\"699260531\"",
+                "esperado": "\"OMEGA SEGURANCA E VIGILANCIA PATRIMONIAL LTDA ME\"",
+                "obtido": "\"ÔMEGA SEGURANÇA E VIGILÂNCIA PATRIMONIAL LTDA ME\""
+              },
+              {
+                "chave": "uf=\"AL\", fistel=\"50410720518\", num_estacao=\"699260540\"",
+                "esperado": "\"OMEGA SEGURANCA E VIGILANCIA PATRIMONIAL LTDA ME\"",
+                "obtido": "\"ÔMEGA SEGURANÇA E VIGILÂNCIA PATRIMONIAL LTDA ME\""
+              },
+              {
+                "chave": "uf=\"AL\", fistel=\"50411064100\", num_estacao=\"699609666\"",
+                "esperado": "\"SISTEMA DE SEGURANCA PRIVADA RODRIGUES LTDA ME\"",
+                "obtido": "\"SISTEMA DE SEGURANÇA PRIVADA RODRIGUES LTDA ME\""
+              }
+            ]
+          },
+          {
+            "coluna": "operadora",
+            "divergencias": 470,
+            "exemplos": [
+              {
+                "chave": "uf=\"DF\", fistel=\"50409146366\", num_estacao=\"5180228\"",
+                "esperado": "\"VIVO\"",
+                "obtido": "\"OUTRAS\""
+              },
+              {
+                "chave": "uf=\"DF\", fistel=\"50409146366\", num_estacao=\"5184940\"",
+                "esperado": "\"VIVO\"",
+                "obtido": "\"OUTRAS\""
+              },
+              {
+                "chave": "uf=\"DF\", fistel=\"50409146366\", num_estacao=\"356126471\"",
+                "esperado": "\"VIVO\"",
+                "obtido": "\"OUTRAS\""
+              },
+              {
+                "chave": "uf=\"DF\", fistel=\"50409146366\", num_estacao=\"426200586\"",
+                "esperado": "\"VIVO\"",
+                "obtido": "\"OUTRAS\""
+              },
+              {
+                "chave": "uf=\"DF\", fistel=\"50409146366\", num_estacao=\"426563050\"",
+                "esperado": "\"VIVO\"",
+                "obtido": "\"OUTRAS\""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tabela": "emissao",
+        "linhasGabarito": 7468991,
+        "linhasSolucao": 7468991,
+        "acertos": 7461553,
+        "divergentes": 7438,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 0.9990041492887058,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": [
+          {
+            "coluna": "duplex_mhz",
+            "divergencias": 7438,
+            "exemplos": [
+              {
+                "chave": "uf=\"BA\", fistel=\"50403089140\", num_estacao=\"1017698896\", num_ato=\"63732025\", azimute=0, freq_tx_mhz=162.94375, freq_rx_mhz=159.18125, designacao_emissao=\"7K60F1W\", tecnologia=\"DMR\"",
+                "esperado": "3.762",
+                "obtido": "3.763"
+              },
+              {
+                "chave": "uf=\"DF\", fistel=\"50450314308\", num_estacao=\"623298040\", num_ato=\"388902003\", azimute=0, freq_tx_mhz=0.1345, freq_rx_mhz=0, designacao_emissao=\"500HJ3E\", tecnologia=NULL",
+                "esperado": "0.134",
+                "obtido": "0.135"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"698067835\", num_ato=\"53052013\", azimute=444.4, freq_tx_mhz=162.56875, freq_rx_mhz=157.93125, designacao_emissao=\"12K5F1E\", tecnologia=NULL",
+                "esperado": "4.637",
+                "obtido": "4.638"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"698070968\", num_ato=\"53052013\", azimute=444.4, freq_tx_mhz=162.56875, freq_rx_mhz=157.93125, designacao_emissao=\"12K5F1E\", tecnologia=NULL",
+                "esperado": "4.637",
+                "obtido": "4.638"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"698079361\", num_ato=\"902020\", azimute=0, freq_tx_mhz=157.93125, freq_rx_mhz=162.56875, designacao_emissao=\"8K10F1E\", tecnologia=NULL",
+                "esperado": "-4.637",
+                "obtido": "-4.638"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "linhasGabarito": 8373256,
+    "acertos": 7859599,
+    "divergentes": 513657,
+    "ausentes": 0,
+    "excedentes": 0,
+    "taxa": 0.9386550464956523,
+    "aceita": false,
+    "categoriaFalha": "resultado incorreto",
+    "detalheFalha": null,
+    "erros": null
+  }
+}

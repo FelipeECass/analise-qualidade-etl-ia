@@ -1,0 +1,42 @@
+﻿> dotnet build /workspace/src/claude_haiku_completo_r3 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:07.24
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_haiku_completo_r3 -c Release --no-build  (código 0)
+Raiz: /workspace
+AC.zip: lidas=9315 rejeitadas=0 estacoes=1260 emissoes=9142 duplicadas=173
+AL.zip: lidas=231806 rejeitadas=0 estacoes=10420 emissoes=229398 duplicadas=2408
+AM.zip: lidas=69493 rejeitadas=0 estacoes=10238 emissoes=61926 duplicadas=7567
+AP.zip: lidas=30384 rejeitadas=0 estacoes=5669 emissoes=28654 duplicadas=1730
+BA.zip: lidas=320555 rejeitadas=0 estacoes=36285 emissoes=305212 duplicadas=15343
+CE.zip: lidas=292154 rejeitadas=0 estacoes=20946 emissoes=285864 duplicadas=6290
+DF.zip: lidas=111459 rejeitadas=0 estacoes=11363 emissoes=108516 duplicadas=2943
+ES.zip: lidas=238606 rejeitadas=0 estacoes=19239 emissoes=234405 duplicadas=4201
+GO.zip: lidas=264157 rejeitadas=0 estacoes=32377 emissoes=254483 duplicadas=9674
+MA.zip: lidas=326868 rejeitadas=0 estacoes=21350 emissoes=319120 duplicadas=7748
+MG.zip: lidas=1086420 rejeitadas=0 estacoes=113304 emissoes=1019139 duplicadas=67281
+MS.zip: lidas=162981 rejeitadas=0 estacoes=21157 emissoes=160708 duplicadas=2273
+MT.zip: lidas=122545 rejeitadas=0 estacoes=35283 emissoes=119611 duplicadas=2934
+PA.zip: lidas=258380 rejeitadas=0 estacoes=23407 emissoes=243150 duplicadas=15230
+PB.zip: lidas=54087 rejeitadas=0 estacoes=8138 emissoes=51715 duplicadas=2372
+PE.zip: lidas=140647 rejeitadas=0 estacoes=20109 emissoes=134962 duplicadas=5685
+PI.zip: lidas=44448 rejeitadas=0 estacoes=5806 emissoes=42642 duplicadas=1806
+PR.zip: lidas=461934 rejeitadas=0 estacoes=58803 emissoes=449937 duplicadas=11997
+RJ.zip: lidas=509904 rejeitadas=0 estacoes=56879 emissoes=489788 duplicadas=20116
+RN.zip: lidas=49721 rejeitadas=0 estacoes=8224 emissoes=46572 duplicadas=3149
+RO.zip: lidas=37089 rejeitadas=0 estacoes=6796 emissoes=36472 duplicadas=617
+RR.zip: lidas=9171 rejeitadas=0 estacoes=1798 emissoes=8514 duplicadas=657
+RS.zip: lidas=272815 rejeitadas=0 estacoes=37950 emissoes=254164 duplicadas=18651
+SC.zip: lidas=252976 rejeitadas=0 estacoes=36540 emissoes=243808 duplicadas=9168
+SE.zip: lidas=37214 rejeitadas=0 estacoes=5042 emissoes=35377 duplicadas=1837
+SP.zip: lidas=2323599 rejeitadas=0 estacoes=290873 emissoes=2255721 duplicadas=67878
+TO.zip: lidas=41777 rejeitadas=0 estacoes=5009 emissoes=39991 duplicadas=1786
+CONCLUÍDO. Arquivos: 27. lidas=7760505 rejeitadas=0 estacoes=904265 emissoes=7468991 duplicadas=291514
+
+

@@ -1,0 +1,40 @@
+﻿> dotnet build /workspace/src/chatgpt_gpt6_completo_r2 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:06.92
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/chatgpt_gpt6_completo_r2 -c Release --no-build  (código 0)
+AC: linhas=9315, emissões=9142, duplicadas=173, rejeitadas=0
+AL: linhas=241121, emissões=238540, duplicadas=2581, rejeitadas=0
+AM: linhas=310614, emissões=300466, duplicadas=10148, rejeitadas=0
+AP: linhas=340998, emissões=329120, duplicadas=11878, rejeitadas=0
+BA: linhas=661553, emissões=634332, duplicadas=27221, rejeitadas=0
+CE: linhas=953707, emissões=920196, duplicadas=33511, rejeitadas=0
+DF: linhas=1065166, emissões=1028712, duplicadas=36454, rejeitadas=0
+ES: linhas=1303772, emissões=1263117, duplicadas=40655, rejeitadas=0
+GO: linhas=1567929, emissões=1517600, duplicadas=50329, rejeitadas=0
+MA: linhas=1894797, emissões=1836720, duplicadas=58077, rejeitadas=0
+MG: linhas=2981217, emissões=2855859, duplicadas=125358, rejeitadas=0
+MS: linhas=3144198, emissões=3016567, duplicadas=127631, rejeitadas=0
+MT: linhas=3266743, emissões=3136178, duplicadas=130565, rejeitadas=0
+PA: linhas=3525123, emissões=3379328, duplicadas=145795, rejeitadas=0
+PB: linhas=3579210, emissões=3431043, duplicadas=148167, rejeitadas=0
+PE: linhas=3719857, emissões=3566005, duplicadas=153852, rejeitadas=0
+PI: linhas=3764305, emissões=3608647, duplicadas=155658, rejeitadas=0
+PR: linhas=4226239, emissões=4058584, duplicadas=167655, rejeitadas=0
+RJ: linhas=4736143, emissões=4548372, duplicadas=187771, rejeitadas=0
+RN: linhas=4785864, emissões=4594944, duplicadas=190920, rejeitadas=0
+RO: linhas=4822953, emissões=4631416, duplicadas=191537, rejeitadas=0
+RR: linhas=4832124, emissões=4639930, duplicadas=192194, rejeitadas=0
+RS: linhas=5104939, emissões=4894094, duplicadas=210845, rejeitadas=0
+SC: linhas=5357915, emissões=5137902, duplicadas=220013, rejeitadas=0
+SE: linhas=5395129, emissões=5173279, duplicadas=221850, rejeitadas=0
+SP: linhas=7718728, emissões=7429000, duplicadas=289728, rejeitadas=0
+TO: linhas=7760505, emissões=7468991, duplicadas=291514, rejeitadas=0
+
+

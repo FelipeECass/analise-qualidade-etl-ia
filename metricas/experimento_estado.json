@@ -1,0 +1,122 @@
+﻿{
+    "opus/medium/completo/run-03":  {
+                                        "fim":  "2026-11-14T01:25:20",
+                                        "status":  "aceita",
+                                        "iteracoes":  1
+                                    },
+    "opus/medium/zero_shot/run-01":  {
+                                         "fim":  "2026-11-12T23:35:27",
+                                         "status":  "aceita",
+                                         "iteracoes":  1
+                                     },
+    "opus/medium/completo/run-02":  {
+                                        "fim":  "2026-11-13T00:48:23",
+                                        "status":  "aceita",
+                                        "iteracoes":  1
+                                    },
+    "haiku/medium/completo/run-03":  {
+                                         "fim":  "2026-11-13T21:07:29",
+                                         "status":  "aceita",
+                                         "iteracoes":  1
+                                     },
+    "haiku/medium/completo/run-02":  {
+                                         "fim":  "2026-11-13T20:30:51",
+                                         "status":  "aceita",
+                                         "iteracoes":  2
+                                     },
+    "sonnet/high/completo/run-02":  {
+                                        "fim":  "2026-11-13T02:26:19",
+                                        "status":  "aceita",
+                                        "iteracoes":  1
+                                    },
+    "opus/medium/completo/run-01":  {
+                                        "fim":  "2026-11-13T00:30:59",
+                                        "status":  "aceita",
+                                        "iteracoes":  1
+                                    },
+    "opus/medium/zero_shot/run-03":  {
+                                         "fim":  "2026-11-13T00:10:10",
+                                         "status":  "aceita",
+                                         "iteracoes":  1
+                                     },
+    "sonnet/medium/completo/run-03":  {
+                                          "fim":  "2026-11-13T22:32:34",
+                                          "status":  "aceita",
+                                          "iteracoes":  1
+                                      },
+    "haiku/medium/completo/run-01":  {
+                                         "fim":  "2026-11-13T04:28:39",
+                                         "status":  "aceita",
+                                         "iteracoes":  1
+                                     },
+    "sonnet/medium/zero_shot/run-03":  {
+                                           "fim":  "2026-11-13T21:51:44",
+                                           "status":  "aceita",
+                                           "iteracoes":  1
+                                       },
+    "sonnet/high/zero_shot/run-01":  {
+                                         "fim":  "2026-11-13T01:15:06",
+                                         "status":  "aceita",
+                                         "iteracoes":  1
+                                     },
+    "sonnet/high/completo/run-03":  {
+                                        "fim":  "2026-11-13T02:46:02",
+                                        "status":  "aceita",
+                                        "iteracoes":  1
+                                    },
+    "sonnet/medium/zero_shot/run-02":  {
+                                           "fim":  "2026-11-13T21:40:09",
+                                           "status":  "aceita",
+                                           "iteracoes":  2
+                                       },
+    "haiku/medium/zero_shot/run-03":  {
+                                          "fim":  "2026-11-13T03:47:55",
+                                          "status":  "aceita",
+                                          "iteracoes":  2
+                                      },
+    "haiku/medium/zero_shot/run-02":  {
+                                          "fim":  "2026-11-13T03:09:57",
+                                          "status":  "aceita",
+                                          "iteracoes":  1
+                                      },
+    "opus/medium/zero_shot/run-02":  {
+                                         "fim":  "2026-11-12T23:59:04",
+                                         "status":  "aceita",
+                                         "iteracoes":  1
+                                     },
+    "sonnet/medium/completo/run-01":  {
+                                          "fim":  "2026-11-13T22:03:06",
+                                          "status":  "aceita",
+                                          "iteracoes":  1
+                                      },
+    "sonnet/high/zero_shot/run-02":  {
+                                         "fim":  "2026-11-13T01:38:22",
+                                         "status":  "aceita",
+                                         "iteracoes":  2
+                                     },
+    "sonnet/medium/zero_shot/run-01":  {
+                                           "fim":  "2026-11-13T21:21:37",
+                                           "status":  "aceita",
+                                           "iteracoes":  2
+                                       },
+    "sonnet/high/zero_shot/run-03":  {
+                                         "fim":  "2026-11-13T01:47:54",
+                                         "status":  "aceita",
+                                         "iteracoes":  1
+                                     },
+    "sonnet/high/completo/run-01":  {
+                                        "fim":  "2026-11-13T02:09:22",
+                                        "status":  "aceita",
+                                        "iteracoes":  1
+                                    },
+    "haiku/medium/zero_shot/run-01":  {
+                                          "fim":  "2026-11-13T02:58:36",
+                                          "status":  "aceita",
+                                          "iteracoes":  1
+                                      },
+    "sonnet/medium/completo/run-02":  {
+                                          "fim":  "2026-11-13T22:17:10",
+                                          "status":  "aceita",
+                                          "iteracoes":  1
+                                      }
+}

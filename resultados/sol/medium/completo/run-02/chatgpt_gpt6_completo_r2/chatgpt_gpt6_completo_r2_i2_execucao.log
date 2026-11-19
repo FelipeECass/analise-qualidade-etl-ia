@@ -1,0 +1,46 @@
+﻿> dotnet build /workspace/src/chatgpt_gpt6_completo_r2 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:05.83
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/chatgpt_gpt6_completo_r2 -c Release --no-build  (código 0)
+AC: 9,315 linhas, 9,142 emissões carregadas.
+AL: 231,806 linhas, 229,398 emissões carregadas.
+AM: 69,493 linhas, 61,926 emissões carregadas.
+AP: 30,384 linhas, 28,654 emissões carregadas.
+BA: 320,555 linhas, 305,212 emissões carregadas.
+CE: 292,154 linhas, 285,864 emissões carregadas.
+DF: 111,459 linhas, 108,516 emissões carregadas.
+ES: 238,606 linhas, 234,405 emissões carregadas.
+GO: 264,157 linhas, 254,483 emissões carregadas.
+MA: 326,868 linhas, 319,120 emissões carregadas.
+Processando MG: 2,740,000 linhas, 2,665,416 emissões, 00:00:48.6177798.
+MG: 1,086,420 linhas, 1,019,139 emissões carregadas.
+MS: 162,981 linhas, 160,708 emissões carregadas.
+MT: 122,545 linhas, 119,611 emissões carregadas.
+PA: 258,380 linhas, 243,150 emissões carregadas.
+PB: 54,087 linhas, 51,715 emissões carregadas.
+PE: 140,647 linhas, 134,962 emissões carregadas.
+PI: 44,448 linhas, 42,642 emissões carregadas.
+PR: 461,934 linhas, 449,937 emissões carregadas.
+RJ: 509,904 linhas, 489,788 emissões carregadas.
+RN: 49,721 linhas, 46,572 emissões carregadas.
+RO: 37,089 linhas, 36,472 emissões carregadas.
+RR: 9,171 linhas, 8,514 emissões carregadas.
+RS: 272,815 linhas, 254,164 emissões carregadas.
+SC: 252,976 linhas, 243,808 emissões carregadas.
+SE: 37,214 linhas, 35,377 emissões carregadas.
+Processando SP: 6,230,000 linhas, 5,994,294 emissões, 00:01:51.8185769.
+Processando SP: 7,090,000 linhas, 6,839,674 emissões, 00:02:06.9236333.
+SP: 2,323,599 linhas, 2,255,721 emissões carregadas.
+TO: 41,777 linhas, 39,991 emissões carregadas.
+Validando integridade e referências do banco...
+Concluído: 7,760,505 linhas; 904,265 estações; 7,468,991 emissões; 0 rejeitadas; 291,514 duplicadas. Tempo: 00:02:35.3614799.
+/workspace/db/chatgpt_gpt6_completo_r2.db
+
+

@@ -1,0 +1,102 @@
+{
+  "rotulo": "claude_sonnet_zeroshot_r2_i2",
+  "empresa": "claude",
+  "modelo": "sonnet",
+  "condicao": "zeroshot",
+  "geracao": "2",
+  "iteracao": "2",
+  "dataHora": "2026-11-14T00:40:08.6898254+00:00",
+  "resultado": {
+    "gabaritoSha256": "334998eecff0ab898bede99cf0b163e2da5d03593bbf39c12558b3064b1df0c7",
+    "solucaoSha256": "771c1f6c6913e42161b32b022a0f87718aa5b8c26b32d378608f33d8a3e08a70",
+    "errosEsquema": [],
+    "avisos": [],
+    "tabelas": [
+      {
+        "tabela": "estacao",
+        "linhasGabarito": 904265,
+        "linhasSolucao": 904265,
+        "acertos": 904263,
+        "divergentes": 2,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 0.9999977882589728,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": [
+          {
+            "coluna": "endereco",
+            "divergencias": 2,
+            "exemplos": [
+              {
+                "chave": "uf=\"RJ\", fistel=\"50409307637\", num_estacao=\"1003520631\"",
+                "esperado": "\"SERV MARIA LEONTINA SCHUSSLER JUSTEN\"",
+                "obtido": "\"SERV MARIA LEONTINA SCHUSSLĒR JUSTEN\""
+              },
+              {
+                "chave": "uf=\"SP\", fistel=\"50010613854\", num_estacao=\"684191466\"",
+                "esperado": "\"RODOVIA DR MANOEL HIPA LITO DO RASGO\"",
+                "obtido": "\"RODOVIA DR MANOEL HIPA LITO DO RAŠGO\""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tabela": "emissao",
+        "linhasGabarito": 7468991,
+        "linhasSolucao": 7468991,
+        "acertos": 7468974,
+        "divergentes": 17,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 0.9999977239228164,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": [
+          {
+            "coluna": "duplex_mhz",
+            "divergencias": 17,
+            "exemplos": [
+              {
+                "chave": "uf=\"DF\", fistel=\"50450314308\", num_estacao=\"623298040\", num_ato=\"388902003\", azimute=0, freq_tx_mhz=0.1535, freq_rx_mhz=0, designacao_emissao=\"500HJ3E\", tecnologia=NULL",
+                "esperado": "0.154",
+                "obtido": "0.153"
+              },
+              {
+                "chave": "uf=\"DF\", fistel=\"50450314308\", num_estacao=\"623298040\", num_ato=\"388902003\", azimute=0, freq_tx_mhz=0.1345, freq_rx_mhz=0, designacao_emissao=\"500HJ3E\", tecnologia=NULL",
+                "esperado": "0.134",
+                "obtido": "0.135"
+              },
+              {
+                "chave": "uf=\"MA\", fistel=\"11030012059\", num_estacao=\"355330\", num_ato=\"623882006\", azimute=0, freq_tx_mhz=0.04625, freq_rx_mhz=0.03875, designacao_emissao=\"2K00J8D\", tecnologia=NULL",
+                "esperado": "0.008",
+                "obtido": "0.007"
+              },
+              {
+                "chave": "uf=\"MA\", fistel=\"11030012059\", num_estacao=\"355330\", num_ato=\"623882006\", azimute=0, freq_tx_mhz=0.06125, freq_rx_mhz=0.05375, designacao_emissao=\"2K00J8D\", tecnologia=NULL",
+                "esperado": "0.008",
+                "obtido": "0.007"
+              },
+              {
+                "chave": "uf=\"MA\", fistel=\"11030012059\", num_estacao=\"355330\", num_ato=\"623882006\", azimute=0, freq_tx_mhz=0.08925, freq_rx_mhz=0.07375, designacao_emissao=\"2K00J8D\", tecnologia=NULL",
+                "esperado": "0.016",
+                "obtido": "0.015"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "linhasGabarito": 8373256,
+    "acertos": 8373237,
+    "divergentes": 19,
+    "ausentes": 0,
+    "excedentes": 0,
+    "taxa": 0.9999977308707628,
+    "aceita": true,
+    "categoriaFalha": null,
+    "detalheFalha": null,
+    "erros": null
+  }
+}

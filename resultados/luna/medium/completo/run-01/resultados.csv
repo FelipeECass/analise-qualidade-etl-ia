@@ -1,0 +1,3 @@
+rotulo,empresa,modelo,condicao,geracao,iteracao,taxa,aceita,ausentes,excedentes,divergentes,avisos,categoria_falha
+chatgpt_gpt6_completo_r1_i1,chatgpt,gpt6,completo,1,1,0.8717182419837636,nao,0,0,1074136,0,resultado incorreto
+chatgpt_gpt6_completo_r1_i2,chatgpt,gpt6,completo,1,2,0.9987137620060822,sim,0,0,10770,0,

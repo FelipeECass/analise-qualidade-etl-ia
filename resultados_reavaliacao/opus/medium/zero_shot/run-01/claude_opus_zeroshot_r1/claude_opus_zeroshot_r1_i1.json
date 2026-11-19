@@ -1,0 +1,85 @@
+{
+  "rotulo": "claude_opus_zeroshot_r1_i1",
+  "empresa": "claude",
+  "modelo": "opus",
+  "condicao": "zeroshot",
+  "geracao": "1",
+  "iteracao": "1",
+  "dataHora": "2026-11-18T23:50:38.8603414-03:00",
+  "resultado": {
+    "gabaritoSha256": "645efb3b119ee2c90204d50be5edf4d11f3f122be9fa196131a89de90706fb8c",
+    "solucaoSha256": "743cfc1b6bf03113b9314b296f527f3c688ec195f75d0903377dbc7203ef2e01",
+    "errosEsquema": [],
+    "avisos": [],
+    "tabelas": [
+      {
+        "tabela": "estacao",
+        "linhasGabarito": 904265,
+        "linhasSolucao": 904265,
+        "acertos": 904257,
+        "divergentes": 8,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 0.999991153035891,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": [
+          {
+            "coluna": "operadora",
+            "divergencias": 8,
+            "exemplos": [
+              {
+                "chave": "uf=\"PR\", fistel=\"50412012421\", num_estacao=\"1000988985\"",
+                "esperado": "\"OUTRAS\"",
+                "obtido": "\"OI\""
+              },
+              {
+                "chave": "uf=\"PR\", fistel=\"50412012421\", num_estacao=\"1000988993\"",
+                "esperado": "\"OUTRAS\"",
+                "obtido": "\"OI\""
+              },
+              {
+                "chave": "uf=\"SP\", fistel=\"50403112907\", num_estacao=\"689038127\"",
+                "esperado": "\"OUTRAS\"",
+                "obtido": "\"OI\""
+              },
+              {
+                "chave": "uf=\"SP\", fistel=\"50403112907\", num_estacao=\"689038500\"",
+                "esperado": "\"OUTRAS\"",
+                "obtido": "\"OI\""
+              },
+              {
+                "chave": "uf=\"SP\", fistel=\"50403112907\", num_estacao=\"689977298\"",
+                "esperado": "\"OUTRAS\"",
+                "obtido": "\"OI\""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tabela": "emissao",
+        "linhasGabarito": 7468991,
+        "linhasSolucao": 7468991,
+        "acertos": 7468991,
+        "divergentes": 0,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 1,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": []
+      }
+    ],
+    "linhasGabarito": 8373256,
+    "acertos": 8373248,
+    "divergentes": 8,
+    "ausentes": 0,
+    "excedentes": 0,
+    "taxa": 0.9999990445771633,
+    "aceita": true,
+    "categoriaFalha": null,
+    "detalheFalha": null,
+    "erros": null
+  }
+}

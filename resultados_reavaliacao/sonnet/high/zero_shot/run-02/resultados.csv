@@ -1,0 +1,2 @@
+rotulo,empresa,modelo,condicao,geracao,iteracao,taxa,aceita,ausentes,excedentes,divergentes,avisos,categoria_falha
+claude_sonnet_zeroshot_r2_i2,claude,sonnet,zeroshot,2,2,0.999111695617571,sim,0,0,7438,0,

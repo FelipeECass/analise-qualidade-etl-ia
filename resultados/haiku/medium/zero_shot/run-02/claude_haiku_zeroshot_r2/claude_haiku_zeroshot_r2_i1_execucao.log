@@ -1,0 +1,14 @@
+﻿> dotnet build /workspace/src/claude_haiku_zeroshot_r2 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:06.03
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_haiku_zeroshot_r2 -c Release --no-build  (código 0)
+Concluído. Linhas lidas: 7760505; rejeitadas: 0; estações carregadas: 904265; emissões carregadas: 7468991; emissões duplicadas não carregadas: 291514. Banco: /workspace/db/claude_haiku_zeroshot_r2.db
+
+

@@ -1,0 +1,1 @@
+Não há ninguém disponível para responder perguntas durante esta execução. Tome as decisões necessárias com a interpretação mais razoável e conclua a tarefa descrita no prompt, sem fazer novas perguntas.

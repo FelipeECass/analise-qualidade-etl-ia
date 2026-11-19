@@ -1,0 +1,4 @@
+rotulo,empresa,modelo,condicao,geracao,iteracao,taxa,aceita,ausentes,excedentes,divergentes,avisos,categoria_falha
+chatgpt_gpt6_zeroshot_r2_i1,chatgpt,gpt6,zeroshot,2,1,0,nao,0,0,0,0,erro de compilação ou ausência de código gerado
+chatgpt_gpt6_zeroshot_r2_i2,chatgpt,gpt6,zeroshot,2,2,0.566495040877766,nao,0,0,3629848,0,resultado incorreto
+chatgpt_gpt6_zeroshot_r2_i3,chatgpt,gpt6,zeroshot,2,3,0.9999991640050179,sim,0,0,7,0,

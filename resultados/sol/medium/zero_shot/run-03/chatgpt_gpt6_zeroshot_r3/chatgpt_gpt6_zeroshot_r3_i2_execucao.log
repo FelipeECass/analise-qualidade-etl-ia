@@ -1,0 +1,41 @@
+﻿> dotnet build /workspace/src/chatgpt_gpt6_zeroshot_r3 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:05.66
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/chatgpt_gpt6_zeroshot_r3 -c Release --no-build  (código 0)
+AC.zip: lidas=9,315; estações=1,260; emissões=9,142; rejeitadas=0; duplicadas=173; tempo=00:00:03
+AL.zip: lidas=241,121; estações=11,680; emissões=238,540; rejeitadas=0; duplicadas=2,581; tempo=00:00:08
+AM.zip: lidas=310,614; estações=21,918; emissões=300,466; rejeitadas=0; duplicadas=10,148; tempo=00:00:09
+AP.zip: lidas=340,998; estações=27,587; emissões=329,120; rejeitadas=0; duplicadas=11,878; tempo=00:00:10
+BA.zip: lidas=661,553; estações=63,872; emissões=634,332; rejeitadas=0; duplicadas=27,221; tempo=00:00:17
+CE.zip: lidas=953,707; estações=84,818; emissões=920,196; rejeitadas=0; duplicadas=33,511; tempo=00:00:23
+DF.zip: lidas=1,065,166; estações=96,181; emissões=1,028,712; rejeitadas=0; duplicadas=36,454; tempo=00:00:25
+ES.zip: lidas=1,303,772; estações=115,420; emissões=1,263,117; rejeitadas=0; duplicadas=40,655; tempo=00:00:30
+GO.zip: lidas=1,567,929; estações=147,797; emissões=1,517,600; rejeitadas=0; duplicadas=50,329; tempo=00:00:35
+MA.zip: lidas=1,894,797; estações=169,147; emissões=1,836,720; rejeitadas=0; duplicadas=58,077; tempo=00:00:42
+MG.zip: lidas=2,981,217; estações=282,451; emissões=2,855,859; rejeitadas=0; duplicadas=125,358; tempo=00:01:04
+MS.zip: lidas=3,144,198; estações=303,608; emissões=3,016,567; rejeitadas=0; duplicadas=127,631; tempo=00:01:07
+MT.zip: lidas=3,266,743; estações=338,891; emissões=3,136,178; rejeitadas=0; duplicadas=130,565; tempo=00:01:10
+PA.zip: lidas=3,525,123; estações=362,298; emissões=3,379,328; rejeitadas=0; duplicadas=145,795; tempo=00:01:15
+PB.zip: lidas=3,579,210; estações=370,436; emissões=3,431,043; rejeitadas=0; duplicadas=148,167; tempo=00:01:16
+PE.zip: lidas=3,719,857; estações=390,545; emissões=3,566,005; rejeitadas=0; duplicadas=153,852; tempo=00:01:19
+PI.zip: lidas=3,764,305; estações=396,351; emissões=3,608,647; rejeitadas=0; duplicadas=155,658; tempo=00:01:20
+PR.zip: lidas=4,226,239; estações=455,154; emissões=4,058,584; rejeitadas=0; duplicadas=167,655; tempo=00:01:30
+RJ.zip: lidas=4,736,143; estações=512,033; emissões=4,548,372; rejeitadas=0; duplicadas=187,771; tempo=00:01:40
+RN.zip: lidas=4,785,864; estações=520,257; emissões=4,594,944; rejeitadas=0; duplicadas=190,920; tempo=00:01:41
+RO.zip: lidas=4,822,953; estações=527,053; emissões=4,631,416; rejeitadas=0; duplicadas=191,537; tempo=00:01:42
+RR.zip: lidas=4,832,124; estações=528,851; emissões=4,639,930; rejeitadas=0; duplicadas=192,194; tempo=00:01:42
+RS.zip: lidas=5,104,939; estações=566,801; emissões=4,894,094; rejeitadas=0; duplicadas=210,845; tempo=00:01:48
+SC.zip: lidas=5,357,915; estações=603,341; emissões=5,137,902; rejeitadas=0; duplicadas=220,013; tempo=00:01:53
+SE.zip: lidas=5,395,129; estações=608,383; emissões=5,173,279; rejeitadas=0; duplicadas=221,850; tempo=00:01:53
+SP.zip: lidas=7,718,728; estações=899,256; emissões=7,429,000; rejeitadas=0; duplicadas=289,728; tempo=00:02:42
+TO.zip: lidas=7,760,505; estações=904,265; emissões=7,468,991; rejeitadas=0; duplicadas=291,514; tempo=00:02:42
+Concluído: /workspace/db/chatgpt_gpt6_zeroshot_r3.db
+
+

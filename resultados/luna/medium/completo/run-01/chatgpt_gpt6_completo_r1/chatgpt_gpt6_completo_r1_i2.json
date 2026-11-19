@@ -1,0 +1,85 @@
+{
+  "rotulo": "chatgpt_gpt6_completo_r1_i2",
+  "empresa": "chatgpt",
+  "modelo": "gpt6",
+  "condicao": "completo",
+  "geracao": "1",
+  "iteracao": "2",
+  "dataHora": "2026-11-14T13:22:49.9877747+00:00",
+  "resultado": {
+    "gabaritoSha256": "334998eecff0ab898bede99cf0b163e2da5d03593bbf39c12558b3064b1df0c7",
+    "solucaoSha256": "d94cc0372b86761ca56ba14fca5c31205fe81178f3985e9f47039ff03a042db6",
+    "errosEsquema": [],
+    "avisos": [],
+    "tabelas": [
+      {
+        "tabela": "estacao",
+        "linhasGabarito": 904265,
+        "linhasSolucao": 904265,
+        "acertos": 904265,
+        "divergentes": 0,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 1,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": []
+      },
+      {
+        "tabela": "emissao",
+        "linhasGabarito": 7468991,
+        "linhasSolucao": 7468991,
+        "acertos": 7458221,
+        "divergentes": 10770,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 0.9985580381607101,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": [
+          {
+            "coluna": "duplex_mhz",
+            "divergencias": 10770,
+            "exemplos": [
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"698067819\", num_ato=\"53052013\", azimute=444.4, freq_tx_mhz=162.64375, freq_rx_mhz=157.93125, designacao_emissao=\"12K5F1E\", tecnologia=NULL",
+                "esperado": "4.713",
+                "obtido": "4.712"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"698262409\", num_ato=\"53052013\", azimute=0, freq_tx_mhz=157.93125, freq_rx_mhz=162.64375, designacao_emissao=\"12K5F1E\", tecnologia=NULL",
+                "esperado": "-4.713",
+                "obtido": "-4.712"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"698067762\", num_ato=\"53052013\", azimute=444.4, freq_tx_mhz=162.64375, freq_rx_mhz=157.93125, designacao_emissao=\"12K5F1E\", tecnologia=NULL",
+                "esperado": "4.713",
+                "obtido": "4.712"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"698067835\", num_ato=\"53052013\", azimute=444.4, freq_tx_mhz=162.56875, freq_rx_mhz=157.93125, designacao_emissao=\"12K5F1E\", tecnologia=NULL",
+                "esperado": "4.637",
+                "obtido": "4.638"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"698067983\", num_ato=\"53052013\", azimute=444.4, freq_tx_mhz=162.64375, freq_rx_mhz=157.93125, designacao_emissao=\"12K5F1E\", tecnologia=NULL",
+                "esperado": "4.713",
+                "obtido": "4.712"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "linhasGabarito": 8373256,
+    "acertos": 8362486,
+    "divergentes": 10770,
+    "ausentes": 0,
+    "excedentes": 0,
+    "taxa": 0.9987137620060822,
+    "aceita": true,
+    "categoriaFalha": null,
+    "detalheFalha": null,
+    "erros": null
+  }
+}

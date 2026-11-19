@@ -1,0 +1,53 @@
+{
+  "rotulo": "chatgpt_gpt_6_zeroshot_r2_i2",
+  "empresa": "chatgpt",
+  "modelo": "gpt_6",
+  "condicao": "zeroshot",
+  "geracao": "2",
+  "iteracao": "2",
+  "dataHora": "2026-11-18T23:59:04.651672-03:00",
+  "resultado": {
+    "gabaritoSha256": "645efb3b119ee2c90204d50be5edf4d11f3f122be9fa196131a89de90706fb8c",
+    "solucaoSha256": "8bcbdf7010c87d3d00d69b40bd7aff1eac1e502f7e33cfd29a4885c149d926a2",
+    "errosEsquema": [],
+    "avisos": [],
+    "tabelas": [
+      {
+        "tabela": "estacao",
+        "linhasGabarito": 904265,
+        "linhasSolucao": 904265,
+        "acertos": 904265,
+        "divergentes": 0,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 1,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": []
+      },
+      {
+        "tabela": "emissao",
+        "linhasGabarito": 7468991,
+        "linhasSolucao": 7468991,
+        "acertos": 7468991,
+        "divergentes": 0,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 1,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": []
+      }
+    ],
+    "linhasGabarito": 8373256,
+    "acertos": 8373256,
+    "divergentes": 0,
+    "ausentes": 0,
+    "excedentes": 0,
+    "taxa": 1,
+    "aceita": true,
+    "categoriaFalha": null,
+    "detalheFalha": null,
+    "erros": null
+  }
+}

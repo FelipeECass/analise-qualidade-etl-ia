@@ -1,0 +1,41 @@
+﻿> dotnet build /workspace/src/chatgpt_gpt6_completo_r1 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:07.49
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/chatgpt_gpt6_completo_r1 -c Release --no-build  (código 0)
+AC: 9,315 registros processados
+AL: 231,806 registros processados
+AM: 69,493 registros processados
+AP: 30,384 registros processados
+BA: 320,555 registros processados
+CE: 292,154 registros processados
+DF: 111,459 registros processados
+ES: 238,606 registros processados
+GO: 264,157 registros processados
+MA: 326,868 registros processados
+MG: 1,086,420 registros processados
+MS: 162,981 registros processados
+MT: 122,545 registros processados
+PA: 258,380 registros processados
+PB: 54,087 registros processados
+PE: 140,647 registros processados
+PI: 44,448 registros processados
+PR: 461,934 registros processados
+RJ: 509,904 registros processados
+RN: 49,721 registros processados
+RO: 37,089 registros processados
+RR: 9,171 registros processados
+RS: 272,815 registros processados
+SC: 252,976 registros processados
+SE: 37,214 registros processados
+SP: 2,323,599 registros processados
+TO: 41,777 registros processados
+Concluído: 904,265 estações, 7,468,991 emissões.
+
+

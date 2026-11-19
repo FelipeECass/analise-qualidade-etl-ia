@@ -1,0 +1,41 @@
+﻿> dotnet build /workspace/src/chatgpt_gpt_6_completo_r3 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:07.84
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/chatgpt_gpt_6_completo_r3 -c Release --no-build  (código 0)
+AC: 9,315 linhas lidas; 1,260 estações e 9,142 emissões acumuladas
+AL: 241,121 linhas lidas; 11,680 estações e 238,540 emissões acumuladas
+AM: 310,614 linhas lidas; 21,918 estações e 300,466 emissões acumuladas
+AP: 340,998 linhas lidas; 27,587 estações e 329,120 emissões acumuladas
+BA: 661,553 linhas lidas; 63,872 estações e 634,332 emissões acumuladas
+CE: 953,707 linhas lidas; 84,818 estações e 920,196 emissões acumuladas
+DF: 1,065,166 linhas lidas; 96,181 estações e 1,028,712 emissões acumuladas
+ES: 1,303,772 linhas lidas; 115,420 estações e 1,263,117 emissões acumuladas
+GO: 1,567,929 linhas lidas; 147,797 estações e 1,517,600 emissões acumuladas
+MA: 1,894,797 linhas lidas; 169,147 estações e 1,836,720 emissões acumuladas
+MG: 2,981,217 linhas lidas; 282,451 estações e 2,855,859 emissões acumuladas
+MS: 3,144,198 linhas lidas; 303,608 estações e 3,016,567 emissões acumuladas
+MT: 3,266,743 linhas lidas; 338,891 estações e 3,136,178 emissões acumuladas
+PA: 3,525,123 linhas lidas; 362,298 estações e 3,379,328 emissões acumuladas
+PB: 3,579,210 linhas lidas; 370,436 estações e 3,431,043 emissões acumuladas
+PE: 3,719,857 linhas lidas; 390,545 estações e 3,566,005 emissões acumuladas
+PI: 3,764,305 linhas lidas; 396,351 estações e 3,608,647 emissões acumuladas
+PR: 4,226,239 linhas lidas; 455,154 estações e 4,058,584 emissões acumuladas
+RJ: 4,736,143 linhas lidas; 512,033 estações e 4,548,372 emissões acumuladas
+RN: 4,785,864 linhas lidas; 520,257 estações e 4,594,944 emissões acumuladas
+RO: 4,822,953 linhas lidas; 527,053 estações e 4,631,416 emissões acumuladas
+RR: 4,832,124 linhas lidas; 528,851 estações e 4,639,930 emissões acumuladas
+RS: 5,104,939 linhas lidas; 566,801 estações e 4,894,094 emissões acumuladas
+SC: 5,357,915 linhas lidas; 603,341 estações e 5,137,902 emissões acumuladas
+SE: 5,395,129 linhas lidas; 608,383 estações e 5,173,279 emissões acumuladas
+SP: 7,718,728 linhas lidas; 899,256 estações e 7,429,000 emissões acumuladas
+TO: 7,760,505 linhas lidas; 904,265 estações e 7,468,991 emissões acumuladas
+Concluído: 7760505 linhas, 0 rejeitadas, 904265 estações, 7468991 emissões.
+
+

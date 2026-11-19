@@ -1,0 +1,41 @@
+﻿> dotnet build /workspace/src/claude_sonnet_zeroshot_r3 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:07.96
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_sonnet_zeroshot_r3 -c Release --no-build  (código 0)
+AC.zip: ok
+AL.zip: ok
+AM.zip: ok
+AP.zip: ok
+BA.zip: ok
+CE.zip: ok
+DF.zip: ok
+ES.zip: ok
+GO.zip: ok
+MA.zip: ok
+MG.zip: ok
+MS.zip: ok
+MT.zip: ok
+PA.zip: ok
+PB.zip: ok
+PE.zip: ok
+PI.zip: ok
+PR.zip: ok
+RJ.zip: ok
+RN.zip: ok
+RO.zip: ok
+RR.zip: ok
+RS.zip: ok
+SC.zip: ok
+SE.zip: ok
+SP.zip: ok
+TO.zip: ok
+Linhas lidas=7760505 rejeitadas=0 duplicadas=291514 estacoes=904265 emissoes=7468991
+
+

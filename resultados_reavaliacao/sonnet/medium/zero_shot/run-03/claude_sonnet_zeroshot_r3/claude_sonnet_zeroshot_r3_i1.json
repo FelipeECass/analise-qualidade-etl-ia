@@ -1,0 +1,53 @@
+{
+  "rotulo": "claude_sonnet_zeroshot_r3_i1",
+  "empresa": "claude",
+  "modelo": "sonnet",
+  "condicao": "zeroshot",
+  "geracao": "3",
+  "iteracao": "1",
+  "dataHora": "2026-11-19T00:14:14.1999507-03:00",
+  "resultado": {
+    "gabaritoSha256": "645efb3b119ee2c90204d50be5edf4d11f3f122be9fa196131a89de90706fb8c",
+    "solucaoSha256": "ccc195897f355d0c1b1ac1607d0197907c06b194f115183b5dd89d8a2b3f7821",
+    "errosEsquema": [],
+    "avisos": [],
+    "tabelas": [
+      {
+        "tabela": "estacao",
+        "linhasGabarito": 904265,
+        "linhasSolucao": 904265,
+        "acertos": 904265,
+        "divergentes": 0,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 1,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": []
+      },
+      {
+        "tabela": "emissao",
+        "linhasGabarito": 7468991,
+        "linhasSolucao": 7468991,
+        "acertos": 7468991,
+        "divergentes": 0,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 1,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": []
+      }
+    ],
+    "linhasGabarito": 8373256,
+    "acertos": 8373256,
+    "divergentes": 0,
+    "ausentes": 0,
+    "excedentes": 0,
+    "taxa": 1,
+    "aceita": true,
+    "categoriaFalha": null,
+    "detalheFalha": null,
+    "erros": null
+  }
+}

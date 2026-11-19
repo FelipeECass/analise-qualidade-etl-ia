@@ -1,0 +1,41 @@
+﻿> dotnet build /workspace/src/claude_sonnet_zeroshot_r2 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:05.45
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_sonnet_zeroshot_r2 -c Release --no-build  (código 0)
+AC.zip: linhas=9315 rejeitadas=0 estacoes=1260 emissoes=9142 (0.3s)
+AL.zip: linhas=231806 rejeitadas=0 estacoes=10420 emissoes=229398 (4.0s)
+AM.zip: linhas=69493 rejeitadas=0 estacoes=10238 emissoes=61926 (1.0s)
+AP.zip: linhas=30384 rejeitadas=0 estacoes=5669 emissoes=28654 (0.5s)
+BA.zip: linhas=320555 rejeitadas=0 estacoes=36285 emissoes=305212 (4.9s)
+CE.zip: linhas=292154 rejeitadas=0 estacoes=20946 emissoes=285864 (4.5s)
+DF.zip: linhas=111459 rejeitadas=0 estacoes=11363 emissoes=108516 (1.7s)
+ES.zip: linhas=238606 rejeitadas=0 estacoes=19239 emissoes=234405 (3.7s)
+GO.zip: linhas=264157 rejeitadas=0 estacoes=32377 emissoes=254483 (4.3s)
+MA.zip: linhas=326868 rejeitadas=0 estacoes=21350 emissoes=319120 (5.0s)
+MG.zip: linhas=1086420 rejeitadas=0 estacoes=113304 emissoes=1019139 (16.8s)
+MS.zip: linhas=162981 rejeitadas=0 estacoes=21157 emissoes=160708 (2.9s)
+MT.zip: linhas=122545 rejeitadas=0 estacoes=35283 emissoes=119611 (2.1s)
+PA.zip: linhas=258380 rejeitadas=0 estacoes=23407 emissoes=243150 (3.9s)
+PB.zip: linhas=54087 rejeitadas=0 estacoes=8138 emissoes=51715 (0.9s)
+PE.zip: linhas=140647 rejeitadas=0 estacoes=20109 emissoes=134962 (2.3s)
+PI.zip: linhas=44448 rejeitadas=0 estacoes=5806 emissoes=42642 (0.7s)
+PR.zip: linhas=461934 rejeitadas=0 estacoes=58803 emissoes=449937 (7.4s)
+RJ.zip: linhas=509904 rejeitadas=0 estacoes=56879 emissoes=489788 (8.3s)
+RN.zip: linhas=49721 rejeitadas=0 estacoes=8224 emissoes=46572 (0.8s)
+RO.zip: linhas=37089 rejeitadas=0 estacoes=6796 emissoes=36472 (0.6s)
+RR.zip: linhas=9171 rejeitadas=0 estacoes=1798 emissoes=8514 (0.2s)
+RS.zip: linhas=272815 rejeitadas=0 estacoes=37950 emissoes=254164 (4.4s)
+SC.zip: linhas=252976 rejeitadas=0 estacoes=36540 emissoes=243808 (4.2s)
+SE.zip: linhas=37214 rejeitadas=0 estacoes=5042 emissoes=35377 (0.6s)
+SP.zip: linhas=2323599 rejeitadas=0 estacoes=290873 emissoes=2255721 (38.7s)
+TO.zip: linhas=41777 rejeitadas=0 estacoes=5009 emissoes=39991 (0.7s)
+Total: linhas=7760505 rejeitadas=0 estacoes=904265 emissoes=7468991 duplicadas=291514
+
+

@@ -1,0 +1,41 @@
+﻿> dotnet build /workspace/src/claude_sonnet_zeroshot_r1 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.79
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_sonnet_zeroshot_r1 -c Release --no-build  (código 0)
+AC.zip: ok (estações=1260, emissões=9142)
+AL.zip: ok (estações=11680, emissões=238540)
+AM.zip: ok (estações=21918, emissões=300466)
+AP.zip: ok (estações=27587, emissões=329120)
+BA.zip: ok (estações=63872, emissões=634332)
+CE.zip: ok (estações=84818, emissões=920196)
+DF.zip: ok (estações=96181, emissões=1028712)
+ES.zip: ok (estações=115420, emissões=1263117)
+GO.zip: ok (estações=147797, emissões=1517600)
+MA.zip: ok (estações=169147, emissões=1836720)
+MG.zip: ok (estações=282451, emissões=2855859)
+MS.zip: ok (estações=303608, emissões=3016567)
+MT.zip: ok (estações=338891, emissões=3136178)
+PA.zip: ok (estações=362298, emissões=3379328)
+PB.zip: ok (estações=370436, emissões=3431043)
+PE.zip: ok (estações=390545, emissões=3566005)
+PI.zip: ok (estações=396351, emissões=3608647)
+PR.zip: ok (estações=455154, emissões=4058584)
+RJ.zip: ok (estações=512033, emissões=4548372)
+RN.zip: ok (estações=520257, emissões=4594944)
+RO.zip: ok (estações=527053, emissões=4631416)
+RR.zip: ok (estações=528851, emissões=4639930)
+RS.zip: ok (estações=566801, emissões=4894094)
+SC.zip: ok (estações=603341, emissões=5137902)
+SE.zip: ok (estações=608383, emissões=5173279)
+SP.zip: ok (estações=899256, emissões=7429000)
+TO.zip: ok (estações=904265, emissões=7468991)
+Linhas lidas=7760505, rejeitadas=0, estações=904265, emissões=7468991
+
+

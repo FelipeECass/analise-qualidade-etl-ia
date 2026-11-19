@@ -1,0 +1,41 @@
+﻿> dotnet build /workspace/src/claude_sonnet_zeroshot_r2 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:07.47
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_sonnet_zeroshot_r2 -c Release --no-build  (código 0)
+AC.zip: estacoes=1260 emissoes=9142
+AL.zip: estacoes=11680 emissoes=238540
+AM.zip: estacoes=21918 emissoes=300466
+AP.zip: estacoes=27587 emissoes=329120
+BA.zip: estacoes=63872 emissoes=634332
+CE.zip: estacoes=84818 emissoes=920196
+DF.zip: estacoes=96181 emissoes=1028712
+ES.zip: estacoes=115420 emissoes=1263117
+GO.zip: estacoes=147797 emissoes=1517600
+MA.zip: estacoes=169147 emissoes=1836720
+MG.zip: estacoes=282451 emissoes=2855859
+MS.zip: estacoes=303608 emissoes=3016567
+MT.zip: estacoes=338891 emissoes=3136178
+PA.zip: estacoes=362298 emissoes=3379328
+PB.zip: estacoes=370436 emissoes=3431043
+PE.zip: estacoes=390545 emissoes=3566005
+PI.zip: estacoes=396351 emissoes=3608647
+PR.zip: estacoes=455154 emissoes=4058584
+RJ.zip: estacoes=512033 emissoes=4548372
+RN.zip: estacoes=520257 emissoes=4594944
+RO.zip: estacoes=527053 emissoes=4631416
+RR.zip: estacoes=528851 emissoes=4639930
+RS.zip: estacoes=566801 emissoes=4894094
+SC.zip: estacoes=603341 emissoes=5137902
+SE.zip: estacoes=608383 emissoes=5173279
+SP.zip: estacoes=899256 emissoes=7429000
+TO.zip: estacoes=904265 emissoes=7468991
+Linhas lidas=7760505 rejeitadas=0 estacoes=904265 emissoes=7468991
+
+

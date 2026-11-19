@@ -1,0 +1,3 @@
+rotulo,empresa,modelo,condicao,geracao,iteracao,taxa,aceita,ausentes,excedentes,divergentes,avisos,categoria_falha
+claude_sonnet_zeroshot_r1_i1,claude,sonnet,zeroshot,1,1,0,nao,0,0,0,0,erro de compilação ou ausência de código gerado
+claude_sonnet_zeroshot_r1_i2,claude,sonnet,zeroshot,1,2,0.999111695617571,sim,0,0,7438,0,

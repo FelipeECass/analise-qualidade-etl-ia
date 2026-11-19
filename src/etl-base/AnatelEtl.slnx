@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AnatelEtl/AnatelEtl.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AnatelEtl.Tests/AnatelEtl.Tests.csproj" />
+  </Folder>
+</Solution>

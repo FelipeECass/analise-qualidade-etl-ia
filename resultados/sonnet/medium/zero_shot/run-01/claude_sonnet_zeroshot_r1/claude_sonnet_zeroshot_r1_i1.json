@@ -1,0 +1,26 @@
+{
+  "rotulo": "claude_sonnet_zeroshot_r1_i1",
+  "empresa": "claude",
+  "modelo": "sonnet",
+  "condicao": "zeroshot",
+  "geracao": "1",
+  "iteracao": "1",
+  "dataHora": "2026-11-14T00:13:37.2790622+00:00",
+  "resultado": {
+    "gabaritoSha256": "334998eecff0ab898bede99cf0b163e2da5d03593bbf39c12558b3064b1df0c7",
+    "solucaoSha256": null,
+    "errosEsquema": [],
+    "avisos": [],
+    "tabelas": [],
+    "linhasGabarito": 0,
+    "acertos": 0,
+    "divergentes": 0,
+    "ausentes": 0,
+    "excedentes": 0,
+    "taxa": 0,
+    "aceita": false,
+    "categoriaFalha": "erro de compilação ou ausência de código gerado",
+    "detalheFalha": "compilação",
+    "erros": "/workspace/src/claude_sonnet_zeroshot_r1/claude_sonnet_zeroshot_r1.csproj : error NU1301: Unable to load the service index for source https://api.nuget.org/v3/index.json.\n/workspace/src/claude_sonnet_zeroshot_r1/claude_sonnet_zeroshot_r1.csproj : error NU1301:   No route to host (api.nuget.org:443)\n/workspace/src/claude_sonnet_zeroshot_r1/claude_sonnet_zeroshot_r1.csproj : error NU1301:   No route to host"
+  }
+}

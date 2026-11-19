@@ -1,0 +1,42 @@
+﻿> dotnet build /workspace/src/chatgpt_gpt_6_completo_r1 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:04.69
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/chatgpt_gpt_6_completo_r1 -c Release --no-build  (código 0)
+AC: 9,142 emissões novas; tempo 00:00:00
+AL: 229,398 emissões novas; tempo 00:00:09
+AM: 61,926 emissões novas; tempo 00:00:11
+AP: 28,654 emissões novas; tempo 00:00:11
+BA: 305,212 emissões novas; tempo 00:00:21
+CE: 285,864 emissões novas; tempo 00:00:29
+DF: 108,516 emissões novas; tempo 00:00:32
+ES: 234,405 emissões novas; tempo 00:00:38
+GO: 254,483 emissões novas; tempo 00:00:45
+MA: 319,120 emissões novas; tempo 00:00:54
+MG: 1,019,139 emissões novas; tempo 00:01:24
+MS: 160,708 emissões novas; tempo 00:01:29
+MT: 119,611 emissões novas; tempo 00:01:32
+PA: 243,150 emissões novas; tempo 00:01:39
+PB: 51,715 emissões novas; tempo 00:01:40
+PE: 134,962 emissões novas; tempo 00:01:44
+PI: 42,642 emissões novas; tempo 00:01:45
+PR: 449,937 emissões novas; tempo 00:01:57
+RJ: 489,788 emissões novas; tempo 00:02:11
+RN: 46,572 emissões novas; tempo 00:02:13
+RO: 36,472 emissões novas; tempo 00:02:14
+RR: 8,514 emissões novas; tempo 00:02:14
+RS: 254,164 emissões novas; tempo 00:02:21
+SC: 243,808 emissões novas; tempo 00:02:28
+SE: 35,377 emissões novas; tempo 00:02:28
+SP: 2,255,721 emissões novas; tempo 00:03:33
+TO: 39,991 emissões novas; tempo 00:03:34
+Concluído: lidas=7760505; rejeitadas=0; duplicadas=291514; estações=904265; emissões=7468991; duração=00:03:44.3462830.
+/workspace/db/chatgpt_gpt_6_completo_r1.db
+
+

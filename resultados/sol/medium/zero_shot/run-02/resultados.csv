@@ -1,0 +1,2 @@
+rotulo,empresa,modelo,condicao,geracao,iteracao,taxa,aceita,ausentes,excedentes,divergentes,avisos,categoria_falha
+chatgpt_gpt_6_zeroshot_r2_i2,chatgpt,gpt_6,zeroshot,2,2,0.999111695617571,sim,0,0,7438,0,

@@ -1,0 +1,16 @@
+{
+  "linhas_lidas": 7760505,
+  "estacoes": 904265,
+  "emissoes": 7468991,
+  "duplicadas": 291514,
+  "rejeitadas": 0,
+  "tempo_etl_segundos": 166,
+  "tamanho_banco_bytes": 1997119488,
+  "esquema_identico_ddl": true,
+  "integrity_check": "ok",
+  "foreign_key_check": "ok",
+  "build": "Release; 0 avisos; 0 erros",
+  "sdk": "10.0.404",
+  "verificacao_sintetica": "aprovada",
+  "comparacao_base_real_com_resultado_esperado": "nao realizada"
+}

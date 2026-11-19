@@ -1,0 +1,43 @@
+﻿> dotnet build /workspace/src/claude_sonnet_completo_r1 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:05.22
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_sonnet_completo_r1 -c Release --no-build  (código 0)
+Raiz: /workspace
+AC.zip   linhas=    9,315 estacoes=   1,260 emissoes=    9,142 (0.3s)
+AL.zip   linhas=  231,806 estacoes=  10,420 emissoes=  229,398 (5.7s)
+AM.zip   linhas=   69,493 estacoes=  10,238 emissoes=   61,926 (1.0s)
+AP.zip   linhas=   30,384 estacoes=   5,669 emissoes=   28,654 (0.5s)
+BA.zip   linhas=  320,555 estacoes=  36,285 emissoes=  305,212 (5.0s)
+CE.zip   linhas=  292,154 estacoes=  20,946 emissoes=  285,864 (4.6s)
+DF.zip   linhas=  111,459 estacoes=  11,363 emissoes=  108,516 (1.8s)
+ES.zip   linhas=  238,606 estacoes=  19,239 emissoes=  234,405 (3.7s)
+GO.zip   linhas=  264,157 estacoes=  32,377 emissoes=  254,483 (4.2s)
+MA.zip   linhas=  326,868 estacoes=  21,350 emissoes=  319,120 (5.0s)
+MG.zip   linhas=1,086,420 estacoes= 113,304 emissoes=1,019,139 (17.0s)
+MS.zip   linhas=  162,981 estacoes=  21,157 emissoes=  160,708 (2.6s)
+MT.zip   linhas=  122,545 estacoes=  35,283 emissoes=  119,611 (2.1s)
+PA.zip   linhas=  258,380 estacoes=  23,407 emissoes=  243,150 (4.0s)
+PB.zip   linhas=   54,087 estacoes=   8,138 emissoes=   51,715 (0.9s)
+PE.zip   linhas=  140,647 estacoes=  20,109 emissoes=  134,962 (2.2s)
+PI.zip   linhas=   44,448 estacoes=   5,806 emissoes=   42,642 (0.7s)
+PR.zip   linhas=  461,934 estacoes=  58,803 emissoes=  449,937 (7.4s)
+RJ.zip   linhas=  509,904 estacoes=  56,879 emissoes=  489,788 (8.1s)
+RN.zip   linhas=   49,721 estacoes=   8,224 emissoes=   46,572 (0.8s)
+RO.zip   linhas=   37,089 estacoes=   6,796 emissoes=   36,472 (0.6s)
+RR.zip   linhas=    9,171 estacoes=   1,798 emissoes=    8,514 (0.2s)
+RS.zip   linhas=  272,815 estacoes=  37,950 emissoes=  254,164 (4.3s)
+SC.zip   linhas=  252,976 estacoes=  36,540 emissoes=  243,808 (4.0s)
+SE.zip   linhas=   37,214 estacoes=   5,042 emissoes=   35,377 (0.6s)
+SP.zip   linhas=2,323,599 estacoes= 290,873 emissoes=2,255,721 (38.8s)
+TO.zip   linhas=   41,777 estacoes=   5,009 emissoes=   39,991 (0.7s)
+Linhas lidas=7,760,505 rejeitadas=0 duplicadas=291,514 estacoes=904,265 emissoes=7,468,991
+Concluído em 00:02:06.6200746. Banco: /workspace/db/claude_sonnet_completo_r1.db
+
+

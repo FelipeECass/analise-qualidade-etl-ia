@@ -1,0 +1,47 @@
+# Configuração gerenciada do Codex (/etc/codex/managed_config.toml).
+# Tem prioridade sobre o config.toml do usuário e sobre "-c" na linha de comando,
+# então o Codex não consegue alterar nada disto durante a execução.
+
+# Sem telas de aprovação (o container já é isolado), equivalente ao
+# --dangerously-skip-permissions do Claude
+approval_policy = "never"
+sandbox_mode = "danger-full-access"
+
+# Sem busca na web (a busca roda nos servidores da OpenAI, então o firewall não a bloquearia)
+web_search = "disabled"
+
+# Login pela assinatura do ChatGPT, guardado em arquivo (auth.json)
+forced_login_method = "chatgpt"
+cli_auth_credentials_store = "file"
+
+# Sem atualização automática, telemetria nem envio de feedback: o único tráfego é para a API
+check_for_update_on_startup = false
+
+# Catálogo de modelos gerado no build da imagem, sem as ferramentas de subagentes
+# (spawn_agent etc.), que o catálogo padrão liga para Sol, Terra e Luna
+model_catalog_json = "/etc/codex/models.json"
+
+# Comandos longos (importação) podem ser acompanhados por até 30 min
+background_terminal_max_timeout = 1800000
+
+[features]
+multi_agent = false
+multi_agent_v2 = false
+apps = false
+plugins = false
+remote_plugin = false
+plugin_discovery_prefetch = false
+tool_suggest = false
+skill_mcp_dependency_install = false
+browser_use = false
+browser_use_external = false
+in_app_browser = false
+computer_use = false
+image_generation = false
+memories = false
+
+[analytics]
+enabled = false
+
+[feedback]
+enabled = false

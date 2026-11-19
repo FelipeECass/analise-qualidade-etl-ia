@@ -1,0 +1,41 @@
+﻿> dotnet build /workspace/src/claude_sonnet_completo_r3 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:08.90
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_sonnet_completo_r3 -c Release --no-build  (código 0)
+AC.zip: lidas=9315 estacoes=1260 emissoes=9142
+AL.zip: lidas=241121 estacoes=11680 emissoes=238540
+AM.zip: lidas=310614 estacoes=21918 emissoes=300466
+AP.zip: lidas=340998 estacoes=27587 emissoes=329120
+BA.zip: lidas=661553 estacoes=63872 emissoes=634332
+CE.zip: lidas=953707 estacoes=84818 emissoes=920196
+DF.zip: lidas=1065166 estacoes=96181 emissoes=1028712
+ES.zip: lidas=1303772 estacoes=115420 emissoes=1263117
+GO.zip: lidas=1567929 estacoes=147797 emissoes=1517600
+MA.zip: lidas=1894797 estacoes=169147 emissoes=1836720
+MG.zip: lidas=2981217 estacoes=282451 emissoes=2855859
+MS.zip: lidas=3144198 estacoes=303608 emissoes=3016567
+MT.zip: lidas=3266743 estacoes=338891 emissoes=3136178
+PA.zip: lidas=3525123 estacoes=362298 emissoes=3379328
+PB.zip: lidas=3579210 estacoes=370436 emissoes=3431043
+PE.zip: lidas=3719857 estacoes=390545 emissoes=3566005
+PI.zip: lidas=3764305 estacoes=396351 emissoes=3608647
+PR.zip: lidas=4226239 estacoes=455154 emissoes=4058584
+RJ.zip: lidas=4736143 estacoes=512033 emissoes=4548372
+RN.zip: lidas=4785864 estacoes=520257 emissoes=4594944
+RO.zip: lidas=4822953 estacoes=527053 emissoes=4631416
+RR.zip: lidas=4832124 estacoes=528851 emissoes=4639930
+RS.zip: lidas=5104939 estacoes=566801 emissoes=4894094
+SC.zip: lidas=5357915 estacoes=603341 emissoes=5137902
+SE.zip: lidas=5395129 estacoes=608383 emissoes=5173279
+SP.zip: lidas=7718728 estacoes=899256 emissoes=7429000
+TO.zip: lidas=7760505 estacoes=904265 emissoes=7468991
+Concluído em 00:02:50.6492278: lidas=7760505 rejeitadas=0 estacoes=904265 emissoes=7468991 duplicadas=291514
+
+

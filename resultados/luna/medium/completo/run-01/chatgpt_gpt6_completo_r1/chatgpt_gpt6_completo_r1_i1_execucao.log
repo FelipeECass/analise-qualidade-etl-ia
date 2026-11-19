@@ -1,0 +1,13 @@
+﻿> dotnet build /workspace/src/chatgpt_gpt6_completo_r1 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:05.55
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/chatgpt_gpt6_completo_r1 -c Release --no-build  (código 0)
+
+

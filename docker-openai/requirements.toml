@@ -1,0 +1,22 @@
+# Requisitos do Codex (/etc/codex/requirements.toml): restrições que nada consegue desfazer.
+allowed_web_search_modes = []            # só "disabled"
+allowed_approval_policies = ["never"]
+allowed_sandbox_modes = ["danger-full-access"]
+
+# Funções fixadas em desligado: subagentes, conectores/apps, plugins, navegador,
+# uso do computador, geração de imagem e memória entre sessões
+[features]
+multi_agent = false
+multi_agent_v2 = false
+apps = false
+plugins = false
+remote_plugin = false
+plugin_discovery_prefetch = false
+tool_suggest = false
+skill_mcp_dependency_install = false
+browser_use = false
+browser_use_external = false
+in_app_browser = false
+computer_use = false
+image_generation = false
+memories = false

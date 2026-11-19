@@ -1,0 +1,40 @@
+﻿> dotnet build /workspace/src/chatgpt_gpt6_zeroshot_r2 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:07.32
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/chatgpt_gpt6_zeroshot_r2 -c Release --no-build  (código 0)
+Processando AC
+Processando AL
+Processando AM
+Processando AP
+Processando BA
+Processando CE
+Processando DF
+Processando ES
+Processando GO
+Processando MA
+Processando MG
+Processando MS
+Processando MT
+Processando PA
+Processando PB
+Processando PE
+Processando PI
+Processando PR
+Processando RJ
+Processando RN
+Processando RO
+Processando RR
+Processando RS
+Processando SC
+Processando SE
+Processando SP
+Processando TO
+
+

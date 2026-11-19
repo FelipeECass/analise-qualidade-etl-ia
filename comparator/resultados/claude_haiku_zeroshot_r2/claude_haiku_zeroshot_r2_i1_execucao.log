@@ -1,0 +1,44 @@
+﻿> dotnet build D:\Projects\TCC\src\claude_haiku_zeroshot_r2 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Compilação com êxito.
+    2 Aviso(s)
+    0 Erro(s)
+
+Tempo Decorrido 00:00:03.54
+
+
+> dotnet run --project D:\Projects\TCC\src\claude_haiku_zeroshot_r2 -c Release --no-build  (código 0)
+AC.zip processado.
+AL.zip processado.
+AM.zip processado.
+AP.zip processado.
+BA.zip processado.
+CE.zip processado.
+DF.zip processado.
+ES.zip processado.
+GO.zip processado.
+MA.zip processado.
+MG.zip processado.
+MS.zip processado.
+MT.zip processado.
+PA.zip processado.
+PB.zip processado.
+PE.zip processado.
+PI.zip processado.
+PR.zip processado.
+RJ.zip processado.
+RN.zip processado.
+RO.zip processado.
+RR.zip processado.
+RS.zip processado.
+SC.zip processado.
+SE.zip processado.
+SP.zip processado.
+TO.zip processado.
+Linhas lidas: 7760505
+Linhas rejeitadas: 0
+Emissões duplicadas: 291514
+Estações gravadas: 904265
+Emissões gravadas: 7468991
+
+

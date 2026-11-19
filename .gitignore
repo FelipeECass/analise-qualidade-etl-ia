@@ -1,0 +1,24 @@
+# Build
+bin/
+obj/
+.vs/
+TestResults/
+.sonarqube/
+
+# Bancos de dados (gerados pelo ETL, ~2 GB). Regenerar com src/etl-base
+*.db
+*.db-journal
+
+# Dados públicos da Anatel (baixar de novo; ver src/etl-base/README.md)
+files/*.zip
+
+# Segredos
+.env
+**/auth/
+auth.json*
+
+# Lixo de ferramentas / SO
+undefined/
+.claude/
+Thumbs.db
+.DS_Store

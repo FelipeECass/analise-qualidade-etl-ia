@@ -1,0 +1,2 @@
+rotulo,empresa,modelo,condicao,geracao,iteracao,taxa,aceita,ausentes,excedentes,divergentes,avisos,categoria_falha
+claude_sonnet_completo_r2_i1,claude,sonnet,completo,2,1,0.9997163588453524,sim,0,0,2375,0,

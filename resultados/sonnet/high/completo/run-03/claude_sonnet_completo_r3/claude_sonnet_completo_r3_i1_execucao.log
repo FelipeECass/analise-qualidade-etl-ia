@@ -1,0 +1,43 @@
+﻿> dotnet build /workspace/src/claude_sonnet_completo_r3 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:05.21
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_sonnet_completo_r3 -c Release --no-build  (código 0)
+Raiz: /workspace
+Saída: /workspace/db/claude_sonnet_completo_r3.db
+AC.zip: 9,315 linhas | acumulado: estacao=1,260 emissao=9,142
+AL.zip: 231,806 linhas | acumulado: estacao=11,680 emissao=238,540
+AM.zip: 69,493 linhas | acumulado: estacao=21,918 emissao=300,466
+AP.zip: 30,384 linhas | acumulado: estacao=27,587 emissao=329,120
+BA.zip: 320,555 linhas | acumulado: estacao=63,872 emissao=634,332
+CE.zip: 292,154 linhas | acumulado: estacao=84,818 emissao=920,196
+DF.zip: 111,459 linhas | acumulado: estacao=96,181 emissao=1,028,712
+ES.zip: 238,606 linhas | acumulado: estacao=115,420 emissao=1,263,117
+GO.zip: 264,157 linhas | acumulado: estacao=147,797 emissao=1,517,600
+MA.zip: 326,868 linhas | acumulado: estacao=169,147 emissao=1,836,720
+MG.zip: 1,086,420 linhas | acumulado: estacao=282,451 emissao=2,855,859
+MS.zip: 162,981 linhas | acumulado: estacao=303,608 emissao=3,016,567
+MT.zip: 122,545 linhas | acumulado: estacao=338,891 emissao=3,136,178
+PA.zip: 258,380 linhas | acumulado: estacao=362,298 emissao=3,379,328
+PB.zip: 54,087 linhas | acumulado: estacao=370,436 emissao=3,431,043
+PE.zip: 140,647 linhas | acumulado: estacao=390,545 emissao=3,566,005
+PI.zip: 44,448 linhas | acumulado: estacao=396,351 emissao=3,608,647
+PR.zip: 461,934 linhas | acumulado: estacao=455,154 emissao=4,058,584
+RJ.zip: 509,904 linhas | acumulado: estacao=512,033 emissao=4,548,372
+RN.zip: 49,721 linhas | acumulado: estacao=520,257 emissao=4,594,944
+RO.zip: 37,089 linhas | acumulado: estacao=527,053 emissao=4,631,416
+RR.zip: 9,171 linhas | acumulado: estacao=528,851 emissao=4,639,930
+RS.zip: 272,815 linhas | acumulado: estacao=566,801 emissao=4,894,094
+SC.zip: 252,976 linhas | acumulado: estacao=603,341 emissao=5,137,902
+SE.zip: 37,214 linhas | acumulado: estacao=608,383 emissao=5,173,279
+SP.zip: 2,323,599 linhas | acumulado: estacao=899,256 emissao=7,429,000
+TO.zip: 41,777 linhas | acumulado: estacao=904,265 emissao=7,468,991
+Concluído em 00:02:10: lidas=7,760,505 rejeitadas=0 estacao=904,265 emissao=7,468,991 emissoes duplicadas=291,514
+
+

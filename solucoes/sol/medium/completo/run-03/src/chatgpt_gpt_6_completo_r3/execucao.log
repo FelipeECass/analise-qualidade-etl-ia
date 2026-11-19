@@ -1,0 +1,29 @@
+AC.zip: +9,142 emissões; total 9,142; 00:00:01
+AL.zip: +229,398 emissões; total 238,540; 00:00:13
+AM.zip: +61,926 emissões; total 300,466; 00:00:16
+AP.zip: +28,654 emissões; total 329,120; 00:00:18
+BA.zip: +305,212 emissões; total 634,332; 00:00:33
+CE.zip: +285,864 emissões; total 920,196; 00:00:48
+DF.zip: +108,516 emissões; total 1,028,712; 00:00:53
+ES.zip: +234,405 emissões; total 1,263,117; 00:01:05
+GO.zip: +254,483 emissões; total 1,517,600; 00:01:19
+MA.zip: +319,120 emissões; total 1,836,720; 00:01:35
+MG.zip: +1,019,139 emissões; total 2,855,859; 00:02:29
+MS.zip: +160,708 emissões; total 3,016,567; 00:02:38
+MT.zip: +119,611 emissões; total 3,136,178; 00:02:44
+PA.zip: +243,150 emissões; total 3,379,328; 00:02:57
+PB.zip: +51,715 emissões; total 3,431,043; 00:02:59
+PE.zip: +134,962 emissões; total 3,566,005; 00:03:06
+PI.zip: +42,642 emissões; total 3,608,647; 00:03:09
+PR.zip: +449,937 emissões; total 4,058,584; 00:03:32
+RJ.zip: +489,788 emissões; total 4,548,372; 00:03:58
+RN.zip: +46,572 emissões; total 4,594,944; 00:04:01
+RO.zip: +36,472 emissões; total 4,631,416; 00:04:03
+RR.zip: +8,514 emissões; total 4,639,930; 00:04:04
+RS.zip: +254,164 emissões; total 4,894,094; 00:04:19
+SC.zip: +243,808 emissões; total 5,137,902; 00:04:33
+SE.zip: +35,377 emissões; total 5,173,279; 00:04:35
+SP.zip: +2,255,721 emissões; total 7,429,000; 00:06:39
+TO.zip: +39,991 emissões; total 7,468,991; 00:06:41
+Concluído: lidas=7760505; rejeitadas=0; duplicadas=291514; estações=904265; emissões=7468991; tempo=00:06:51
+Banco: /workspace/db/chatgpt_gpt_6_completo_r3.db

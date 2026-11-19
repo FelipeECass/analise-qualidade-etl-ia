@@ -1,0 +1,203 @@
+﻿2026-11-14 01:32:57  ==== Início: 18 execuções, até 20 iterações cada ====
+2026-11-14 01:32:57  sol/medium/zero_shot/run-01: iteração 1 (tentativa 1)
+2026-11-14 01:33:16  sol/medium/zero_shot/run-01: falha (Esperava 1 pasta de solução em D:\Projects\TCC\runs\sol\medium\zero_shot\run-01\src e achei 0. Informe -Solucao <nome>.). Será refeita do zero.
+2026-11-14 01:33:16  sol/medium/zero_shot/run-01: iteração 1 (tentativa 2)
+2026-11-14 01:33:31  sol/medium/zero_shot/run-01: falha (Esperava 1 pasta de solução em D:\Projects\TCC\runs\sol\medium\zero_shot\run-01\src e achei 0. Informe -Solucao <nome>.). Será refeita do zero.
+2026-11-14 01:33:31  sol/medium/zero_shot/run-01: iteração 1 (tentativa 3)
+2026-11-14 01:37:36  ==== Início: 18 execuções, até 20 iterações cada ====
+2026-11-14 01:37:36  sol/medium/zero_shot/run-01: iteração 1 (tentativa 1)
+2026-11-14 01:37:54  sol/medium/zero_shot/run-01: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 02:01:19  sol/medium/zero_shot/run-01: ACEITA na iteração 2
+2026-11-14 02:01:19  sol/medium/zero_shot/run-02: iteração 1 (tentativa 1)
+2026-11-14 02:01:34  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 02:13:35  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 3
+2026-11-14 02:16:03  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 4
+2026-11-14 02:18:29  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 5
+2026-11-14 02:20:56  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 6
+2026-11-14 02:23:23  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 7
+2026-11-14 02:25:49  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 8
+2026-11-14 02:28:16  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 9
+2026-11-14 02:30:43  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 10
+2026-11-14 02:33:10  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 11
+2026-11-14 02:35:37  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 12
+2026-11-14 02:38:03  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 13
+2026-11-14 02:40:29  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 14
+2026-11-14 02:42:57  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 15
+2026-11-14 02:45:23  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 16
+2026-11-14 02:47:49  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 17
+2026-11-14 02:50:16  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 18
+2026-11-14 02:52:43  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 19
+2026-11-14 02:55:09  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 20
+2026-11-14 02:57:36  sol/medium/zero_shot/run-02: SEM SOLUÇÃO após 20 iterações (limite)
+2026-11-14 02:57:36  sol/medium/zero_shot/run-03: iteração 1 (tentativa 1)
+2026-11-14 02:57:54  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 03:08:58  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 3
+2026-11-14 03:10:59  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 4
+2026-11-14 03:13:01  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 5
+2026-11-14 03:15:03  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 6
+2026-11-14 03:17:06  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 7
+2026-11-14 03:19:08  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 8
+2026-11-14 03:21:09  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 9
+2026-11-14 03:23:09  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 10
+2026-11-14 03:25:11  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 11
+2026-11-14 03:27:12  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 12
+2026-11-14 03:29:13  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 13
+2026-11-14 03:31:14  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 14
+2026-11-14 03:33:15  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 15
+2026-11-14 03:35:15  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 16
+2026-11-14 03:37:16  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 17
+2026-11-14 03:39:16  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 18
+2026-11-14 03:41:16  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 19
+2026-11-14 03:43:18  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 20
+2026-11-14 03:45:19  sol/medium/zero_shot/run-03: SEM SOLUÇÃO após 20 iterações (limite)
+2026-11-14 03:45:19  sol/medium/completo/run-01: iteração 1 (tentativa 1)
+2026-11-14 03:45:38  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 04:10:11  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 3
+2026-11-14 04:13:12  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 4
+2026-11-14 04:16:12  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 5
+2026-11-14 04:19:12  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 6
+2026-11-14 04:22:11  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 7
+2026-11-14 04:25:14  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 8
+2026-11-14 04:28:13  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 9
+2026-11-14 04:31:13  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 10
+2026-11-14 04:34:17  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 11
+2026-11-14 04:37:20  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 12
+2026-11-14 04:40:20  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 13
+2026-11-14 04:43:19  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 14
+2026-11-14 04:46:20  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 15
+2026-11-14 04:49:21  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 16
+2026-11-14 04:52:21  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 17
+2026-11-14 04:55:20  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 18
+2026-11-14 04:58:22  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 19
+2026-11-14 05:01:25  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 20
+2026-11-14 05:04:27  sol/medium/completo/run-01: SEM SOLUÇÃO após 20 iterações (limite)
+2026-11-14 05:04:27  sol/medium/completo/run-02: iteração 1 (tentativa 1)
+2026-11-14 05:04:47  sol/medium/completo/run-02: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 05:22:29  sol/medium/completo/run-02: ACEITA na iteração 2
+2026-11-14 05:22:29  sol/medium/completo/run-03: iteração 1 (tentativa 1)
+2026-11-14 05:22:47  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 05:37:28  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 3
+2026-11-14 05:39:44  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 4
+2026-11-14 05:42:01  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 5
+2026-11-14 05:44:18  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 6
+2026-11-14 05:46:34  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 7
+2026-11-14 05:48:50  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 8
+2026-11-14 05:51:08  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 9
+2026-11-14 05:53:28  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 10
+2026-11-14 05:55:45  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 11
+2026-11-14 05:58:01  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 12
+2026-11-14 06:00:16  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 13
+2026-11-14 06:02:34  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 14
+2026-11-14 06:04:52  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 15
+2026-11-14 06:07:09  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 16
+2026-11-14 06:09:26  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 17
+2026-11-14 06:11:43  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 18
+2026-11-14 06:14:00  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 19
+2026-11-14 06:16:16  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 20
+2026-11-14 06:18:34  sol/medium/completo/run-03: SEM SOLUÇÃO após 20 iterações (limite)
+2026-11-14 06:18:34  terra/medium/zero_shot/run-01: iteração 1 (tentativa 1)
+2026-11-14 06:30:08  terra/medium/zero_shot/run-01: ACEITA na iteração 1
+2026-11-14 06:30:08  terra/medium/zero_shot/run-02: iteração 1 (tentativa 1)
+2026-11-14 06:46:17  terra/medium/zero_shot/run-02: ACEITA na iteração 1
+2026-11-14 06:46:17  terra/medium/zero_shot/run-03: iteração 1 (tentativa 1)
+2026-11-14 07:05:14  terra/medium/zero_shot/run-03: ACEITA na iteração 1
+2026-11-14 07:05:14  terra/medium/completo/run-01: iteração 1 (tentativa 1)
+2026-11-14 07:16:04  terra/medium/completo/run-01: ACEITA na iteração 1
+2026-11-14 07:16:04  terra/medium/completo/run-02: iteração 1 (tentativa 1)
+2026-11-14 07:33:33  terra/medium/completo/run-02: ACEITA na iteração 1
+2026-11-14 07:33:33  terra/medium/completo/run-03: iteração 1 (tentativa 1)
+2026-11-14 07:41:15  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 07:43:54  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 3
+2026-11-14 07:46:34  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 4
+2026-11-14 07:49:12  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 5
+2026-11-14 07:51:52  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 6
+2026-11-14 07:54:31  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 7
+2026-11-14 07:57:09  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 8
+2026-11-14 07:59:48  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 9
+2026-11-14 08:02:27  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 10
+2026-11-14 08:05:05  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 11
+2026-11-14 08:07:42  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 12
+2026-11-14 08:10:20  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 13
+2026-11-14 08:12:58  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 14
+2026-11-14 08:15:36  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 15
+2026-11-14 08:18:14  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 16
+2026-11-14 08:20:51  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 17
+2026-11-14 08:23:30  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 18
+2026-11-14 08:26:09  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 19
+2026-11-14 08:28:47  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 20
+2026-11-14 08:31:25  terra/medium/completo/run-03: SEM SOLUÇÃO após 20 iterações (limite)
+2026-11-14 08:31:25  luna/medium/zero_shot/run-01: iteração 1 (tentativa 1)
+2026-11-14 08:31:44  luna/medium/zero_shot/run-01: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 08:45:40  luna/medium/zero_shot/run-01: ACEITA na iteração 2
+2026-11-14 08:45:40  luna/medium/zero_shot/run-02: iteração 1 (tentativa 1)
+2026-11-14 08:46:49  luna/medium/zero_shot/run-02: NÃO ACEITA; re-prompt, iteração 2
+2026-11-14 08:57:35  luna/medium/zero_shot/run-02: NÃO ACEITA; re-prompt, iteração 3
+2026-11-14 09:07:59  luna/medium/zero_shot/run-02: ACEITA na iteração 3
+2026-11-14 09:07:59  luna/medium/zero_shot/run-03: iteração 1 (tentativa 1)
+2026-11-14 09:13:36  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 09:18:45  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 3
+2026-11-14 09:20:54  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 4
+2026-11-14 09:23:11  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 5
+2026-11-14 09:25:10  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 6
+2026-11-14 09:27:17  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 7
+2026-11-14 09:29:15  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 8
+2026-11-14 09:31:16  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 9
+2026-11-14 09:33:14  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 10
+2026-11-14 09:35:13  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 11
+2026-11-14 09:37:12  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 12
+2026-11-14 09:39:16  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 13
+2026-11-14 09:41:14  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 14
+2026-11-14 09:43:12  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 15
+2026-11-14 09:45:13  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 16
+2026-11-14 09:47:12  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 17
+2026-11-14 09:49:10  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 18
+2026-11-14 09:51:08  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 19
+2026-11-14 09:53:07  luna/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 20
+2026-11-14 09:55:05  luna/medium/zero_shot/run-03: SEM SOLUÇÃO após 20 iterações (limite)
+2026-11-14 09:55:05  luna/medium/completo/run-01: iteração 1 (tentativa 1)
+2026-11-14 10:11:05  luna/medium/completo/run-01: NÃO ACEITA; re-prompt, iteração 2
+2026-11-14 10:22:51  luna/medium/completo/run-01: ACEITA na iteração 2
+2026-11-14 10:22:51  luna/medium/completo/run-02: iteração 1 (tentativa 1)
+2026-11-14 10:36:14  luna/medium/completo/run-02: ACEITA na iteração 1
+2026-11-14 10:36:14  luna/medium/completo/run-03: iteração 1 (tentativa 1)
+2026-11-14 10:44:24  luna/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 10:46:45  luna/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 3
+2026-11-14 10:48:49  luna/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 4
+2026-11-14 10:53:23  luna/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 5
+2026-11-14 10:59:05  luna/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 6
+2026-11-14 11:01:11  luna/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 7
+2026-11-14 11:03:55  luna/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 8
+2026-11-14 11:20:55  ==== Início: 18 execuções, até 20 iterações cada ====
+2026-11-14 11:20:55  Pulando sol/medium/zero_shot/run-01 (já aceita)
+2026-11-14 11:20:55  sol/medium/zero_shot/run-02: iteração 1 (tentativa 1)
+2026-11-14 11:21:16  sol/medium/zero_shot/run-02: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 11:35:54  sol/medium/zero_shot/run-02: ACEITA na iteração 2
+2026-11-14 11:35:54  sol/medium/zero_shot/run-03: iteração 1 (tentativa 1)
+2026-11-14 11:36:12  sol/medium/zero_shot/run-03: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 11:51:22  sol/medium/zero_shot/run-03: ACEITA na iteração 2
+2026-11-14 11:51:22  sol/medium/completo/run-01: iteração 1 (tentativa 1)
+2026-11-14 11:51:46  sol/medium/completo/run-01: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 12:10:55  sol/medium/completo/run-01: ACEITA na iteração 2
+2026-11-14 12:10:55  Pulando sol/medium/completo/run-02 (já aceita)
+2026-11-14 12:10:55  sol/medium/completo/run-03: iteração 1 (tentativa 1)
+2026-11-14 12:11:10  sol/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 12:36:54  sol/medium/completo/run-03: ACEITA na iteração 2
+2026-11-14 12:36:54  Pulando terra/medium/zero_shot/run-01 (já aceita)
+2026-11-14 12:36:54  Pulando terra/medium/zero_shot/run-02 (já aceita)
+2026-11-14 12:36:54  Pulando terra/medium/zero_shot/run-03 (já aceita)
+2026-11-14 12:36:54  Pulando terra/medium/completo/run-01 (já aceita)
+2026-11-14 12:36:54  Pulando terra/medium/completo/run-02 (já aceita)
+2026-11-14 12:36:54  terra/medium/completo/run-03: iteração 1 (tentativa 1)
+2026-11-14 12:37:12  terra/medium/completo/run-03: terminou sem solução; resposta padrão, iteração 2
+2026-11-14 12:52:13  terra/medium/completo/run-03: ACEITA na iteração 2
+2026-11-14 12:52:13  Pulando luna/medium/zero_shot/run-01 (já aceita)
+2026-11-14 12:52:13  Pulando luna/medium/zero_shot/run-02 (já aceita)
+2026-11-14 12:52:13  luna/medium/zero_shot/run-03: iteração 1 (tentativa 1)
+2026-11-14 13:06:33  luna/medium/zero_shot/run-03: NÃO ACEITA; re-prompt, iteração 2
+2026-11-14 13:17:46  luna/medium/zero_shot/run-03: ACEITA na iteração 2
+2026-11-14 13:17:46  Pulando luna/medium/completo/run-01 (já aceita)
+2026-11-14 13:17:46  Pulando luna/medium/completo/run-02 (já aceita)
+2026-11-14 13:17:46  luna/medium/completo/run-03: iteração 1 (tentativa 1)
+2026-11-14 13:35:13  luna/medium/completo/run-03: ACEITA na iteração 1
+2026-11-14 13:35:13  ==== Execuções terminadas ====
+2026-11-14 13:35:13  Gerando métricas de tokens e interações

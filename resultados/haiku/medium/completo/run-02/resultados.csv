@@ -1,0 +1,3 @@
+rotulo,empresa,modelo,condicao,geracao,iteracao,taxa,aceita,ausentes,excedentes,divergentes,avisos,categoria_falha
+claude_haiku_completo_r2_i1,claude,haiku,completo,2,1,0,nao,0,0,0,0,erro de compilação ou ausência de código gerado
+claude_haiku_completo_r2_i2,claude,haiku,completo,2,2,0.9991108596225888,sim,0,0,7445,0,

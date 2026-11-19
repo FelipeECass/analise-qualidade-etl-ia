@@ -1,0 +1,45 @@
+# Ocorrencias por regra (API do SonarQube 26.11, perfil Sonar way core, 36 projetos -medium-, todas OPEN)
+haiku|c|1 S2077:1 S6966:2 S6444:9
+haiku|c|2 S6444:10
+haiku|c|3 S6444:1 S2077:1
+haiku|zs|1 S6444:1
+haiku|zs|2 S2077:1 S6444:10
+haiku|zs|3 S2077:1 S6444:9
+luna|c|1 S6444:7
+luna|c|2 S3903:1 S6444:8
+luna|c|3 S3903:1 S6444:2
+luna|zs|1 S3903:1 S6444:6 S2077:1
+luna|zs|2 S6966:11 S6444:6 S2757:1 S3903:1
+luna|zs|3 S6966:13 S6444:5
+opus|c|1 S2077:1
+opus|c|2 S6966:4 S1244:1 S2077:1
+opus|c|3 S6966:3 S1244:1 S2077:1
+opus|zs|1 S2077:1 S6444:4
+opus|zs|2 S2077:1
+opus|zs|3 S6444:7 S2077:1
+sol|c|1 S2077:1 S6966:1 S6444:7
+sol|c|2 S2077:1
+sol|c|3 S2077:1 S6444:7 pyS1244:1
+sol|zs|1 S2077:1 pyS1244:1
+sol|zs|2 S2077:1
+sol|zs|3 S2077:1 S6444:7
+sonnet|c|1 S2077:2
+sonnet|c|2 S2077:1
+sonnet|c|3 S3903:5 S2077:1 S6966:1
+sonnet|zs|1 S3877:1
+sonnet|zs|2 S2077:1
+sonnet|zs|3 S2077:1
+terra|c|1 S3903:2 S2077:1
+terra|c|2 S6966:1 S3903:1 S6444:2
+terra|c|3 S3903:1 S2077:1
+terra|zs|1 S6966:1 S6444:5 S3903:1
+terra|zs|2 S6966:1 S3903:1 S6444:2
+terra|zs|3 S3903:1 S2077:1
+# S2077 SQL queries should not be dynamically formatted (VULNERABILITY)
+# S6444 Regular expressions should be executed with a timeout (VULNERABILITY)
+# S3903 Types should be defined in named namespaces (BUG)
+# S2757 Non-existent operators like "=+" should not be used (BUG)
+# S1244 Floating point numbers should not be tested for equality (BUG; pyS1244 = regra Python, arquivo .py na solucao)
+# S6966 Awaitable method should be used (CODE_SMELL)
+# S3877 Exceptions should not be thrown from unexpected methods (CODE_SMELL) - unica regra de excecao acionada
+# Regras de excecao ativas no perfil: S1048, S3877, S3984

@@ -1,0 +1,13 @@
+﻿> dotnet build D:\Projects\TCC\src\claude_sonnet_zeroshot_r3 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Compilação com êxito.
+    0 Aviso(s)
+    0 Erro(s)
+
+Tempo Decorrido 00:00:00.98
+
+
+> dotnet run --project D:\Projects\TCC\src\claude_sonnet_zeroshot_r3 -c Release --no-build  (código 0)
+Linhas lidas: 7,760,505 | rejeitadas: 0 | estações: 904,265 | emissões: 7,468,991 | emissões duplicadas: 291,514 | tempo: 00:02:04.8596667
+
+

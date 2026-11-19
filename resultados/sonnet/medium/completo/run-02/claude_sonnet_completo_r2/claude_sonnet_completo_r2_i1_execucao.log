@@ -1,0 +1,41 @@
+﻿> dotnet build /workspace/src/claude_sonnet_completo_r2 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:08.40
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_sonnet_completo_r2 -c Release --no-build  (código 0)
+AC.zip: ok (estacoes=1260, emissoes=9142)
+AL.zip: ok (estacoes=11680, emissoes=238540)
+AM.zip: ok (estacoes=21918, emissoes=300466)
+AP.zip: ok (estacoes=27587, emissoes=329120)
+BA.zip: ok (estacoes=63872, emissoes=634332)
+CE.zip: ok (estacoes=84818, emissoes=920196)
+DF.zip: ok (estacoes=96181, emissoes=1028712)
+ES.zip: ok (estacoes=115420, emissoes=1263117)
+GO.zip: ok (estacoes=147797, emissoes=1517600)
+MA.zip: ok (estacoes=169147, emissoes=1836720)
+MG.zip: ok (estacoes=282451, emissoes=2855859)
+MS.zip: ok (estacoes=303608, emissoes=3016567)
+MT.zip: ok (estacoes=338891, emissoes=3136178)
+PA.zip: ok (estacoes=362298, emissoes=3379328)
+PB.zip: ok (estacoes=370436, emissoes=3431043)
+PE.zip: ok (estacoes=390545, emissoes=3566005)
+PI.zip: ok (estacoes=396351, emissoes=3608647)
+PR.zip: ok (estacoes=455154, emissoes=4058584)
+RJ.zip: ok (estacoes=512033, emissoes=4548372)
+RN.zip: ok (estacoes=520257, emissoes=4594944)
+RO.zip: ok (estacoes=527053, emissoes=4631416)
+RR.zip: ok (estacoes=528851, emissoes=4639930)
+RS.zip: ok (estacoes=566801, emissoes=4894094)
+SC.zip: ok (estacoes=603341, emissoes=5137902)
+SE.zip: ok (estacoes=608383, emissoes=5173279)
+SP.zip: ok (estacoes=899256, emissoes=7429000)
+TO.zip: ok (estacoes=904265, emissoes=7468991)
+Lidas=7760505 rejeitadas=0 estacoes=904265 emissoes=7468991 duplicadas=291514
+
+

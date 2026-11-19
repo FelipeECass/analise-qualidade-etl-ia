@@ -1,0 +1,42 @@
+﻿> dotnet build /workspace/src/claude_haiku_zeroshot_r1 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:06.64
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_haiku_zeroshot_r1 -c Release --no-build  (código 0)
+AC.zip: processado.
+AL.zip: processado.
+AM.zip: processado.
+AP.zip: processado.
+BA.zip: processado.
+CE.zip: processado.
+DF.zip: processado.
+ES.zip: processado.
+GO.zip: processado.
+MA.zip: processado.
+MG.zip: processado.
+MS.zip: processado.
+MT.zip: processado.
+PA.zip: processado.
+PB.zip: processado.
+PE.zip: processado.
+PI.zip: processado.
+PR.zip: processado.
+RJ.zip: processado.
+RN.zip: processado.
+RO.zip: processado.
+RR.zip: processado.
+RS.zip: processado.
+SC.zip: processado.
+SE.zip: processado.
+SP.zip: processado.
+TO.zip: processado.
+Linhas lidas: 7760505; rejeitadas (sem FISTEL/estação/UF): 0; emissões duplicadas não carregadas: 291514.
+Banco gerado: /workspace/db/claude_haiku_zeroshot_r1.db
+
+

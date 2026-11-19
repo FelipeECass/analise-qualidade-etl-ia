@@ -1,0 +1,17 @@
+﻿> dotnet build /workspace/src/claude_haiku_zeroshot_r3 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:05.83
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_haiku_zeroshot_r3 -c Release --no-build  (código 1)
+
+Erro: Pasta de entrada não encontrada: D:\Projects\TCC/files
+System.IO.DirectoryNotFoundException: Pasta de entrada não encontrada: D:\Projects\TCC/files
+   at ClaudeHaikuZeroshotR3.Program.Executar() in /workspace/src/claude_haiku_zeroshot_r3/Program.cs:line 39
+   at ClaudeHaikuZeroshotR3.Program.Main() in /workspace/src/claude_haiku_zeroshot_r3/Program.cs:line 14
+

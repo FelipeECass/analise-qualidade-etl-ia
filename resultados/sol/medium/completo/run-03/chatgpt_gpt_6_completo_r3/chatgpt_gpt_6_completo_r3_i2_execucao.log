@@ -1,0 +1,42 @@
+﻿> dotnet build /workspace/src/chatgpt_gpt_6_completo_r3 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:07.43
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/chatgpt_gpt_6_completo_r3 -c Release --no-build  (código 0)
+AC.zip: +9,142 emissões; total 9,142; 00:00:01
+AL.zip: +229,398 emissões; total 238,540; 00:00:13
+AM.zip: +61,926 emissões; total 300,466; 00:00:17
+AP.zip: +28,654 emissões; total 329,120; 00:00:18
+BA.zip: +305,212 emissões; total 634,332; 00:00:35
+CE.zip: +285,864 emissões; total 920,196; 00:00:49
+DF.zip: +108,516 emissões; total 1,028,712; 00:00:55
+ES.zip: +234,405 emissões; total 1,263,117; 00:01:08
+GO.zip: +254,483 emissões; total 1,517,600; 00:01:25
+MA.zip: +319,120 emissões; total 1,836,720; 00:01:42
+MG.zip: +1,019,139 emissões; total 2,855,859; 00:02:37
+MS.zip: +160,708 emissões; total 3,016,567; 00:02:46
+MT.zip: +119,611 emissões; total 3,136,178; 00:02:52
+PA.zip: +243,150 emissões; total 3,379,328; 00:03:05
+PB.zip: +51,715 emissões; total 3,431,043; 00:03:08
+PE.zip: +134,962 emissões; total 3,566,005; 00:03:15
+PI.zip: +42,642 emissões; total 3,608,647; 00:03:17
+PR.zip: +449,937 emissões; total 4,058,584; 00:03:44
+RJ.zip: +489,788 emissões; total 4,548,372; 00:04:14
+RN.zip: +46,572 emissões; total 4,594,944; 00:04:16
+RO.zip: +36,472 emissões; total 4,631,416; 00:04:18
+RR.zip: +8,514 emissões; total 4,639,930; 00:04:19
+RS.zip: +254,164 emissões; total 4,894,094; 00:04:34
+SC.zip: +243,808 emissões; total 5,137,902; 00:04:47
+SE.zip: +35,377 emissões; total 5,173,279; 00:04:49
+SP.zip: +2,255,721 emissões; total 7,429,000; 00:06:54
+TO.zip: +39,991 emissões; total 7,468,991; 00:06:57
+Concluído: lidas=7760505; rejeitadas=0; duplicadas=291514; estações=904265; emissões=7468991; tempo=00:07:06
+Banco: /workspace/db/chatgpt_gpt_6_completo_r3.db
+
+

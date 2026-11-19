@@ -1,0 +1,13 @@
+{
+  "sessions": {
+    "ca117589-5beb-4783-bb74-74754e01ae69": {
+      "user_message_count": 1,
+      "agent_message_count": 44,
+      "start_timestamp": "2026-11-13T05:46:04.658Z",
+      "end_timestamp": "2026-11-13T05:53:05.104Z",
+      "markdown_size_bytes": 63944,
+      "provider": "claude",
+      "last_updated": "2026-11-13T05:53:05Z"
+    }
+  }
+}

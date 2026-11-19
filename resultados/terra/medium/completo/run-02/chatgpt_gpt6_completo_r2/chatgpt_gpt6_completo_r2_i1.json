@@ -1,0 +1,148 @@
+{
+  "rotulo": "chatgpt_gpt6_completo_r2_i1",
+  "empresa": "chatgpt",
+  "modelo": "gpt6",
+  "condicao": "completo",
+  "geracao": "2",
+  "iteracao": "1",
+  "dataHora": "2026-11-14T10:33:32.2143268+00:00",
+  "resultado": {
+    "gabaritoSha256": "334998eecff0ab898bede99cf0b163e2da5d03593bbf39c12558b3064b1df0c7",
+    "solucaoSha256": "d12d99b313d7b322051df9a067ce63ae877f65d589d9be60c545f8954c21d4cb",
+    "errosEsquema": [],
+    "avisos": [],
+    "tabelas": [
+      {
+        "tabela": "estacao",
+        "linhasGabarito": 904265,
+        "linhasSolucao": 904265,
+        "acertos": 904257,
+        "divergentes": 8,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 0.999991153035891,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": [
+          {
+            "coluna": "operadora",
+            "divergencias": 8,
+            "exemplos": [
+              {
+                "chave": "uf=\"PR\", fistel=\"50412012421\", num_estacao=\"1000988985\"",
+                "esperado": "\"OUTRAS\"",
+                "obtido": "\"OI\""
+              },
+              {
+                "chave": "uf=\"PR\", fistel=\"50412012421\", num_estacao=\"1000988993\"",
+                "esperado": "\"OUTRAS\"",
+                "obtido": "\"OI\""
+              },
+              {
+                "chave": "uf=\"SP\", fistel=\"50403112907\", num_estacao=\"689038127\"",
+                "esperado": "\"OUTRAS\"",
+                "obtido": "\"OI\""
+              },
+              {
+                "chave": "uf=\"SP\", fistel=\"50403112907\", num_estacao=\"689038500\"",
+                "esperado": "\"OUTRAS\"",
+                "obtido": "\"OI\""
+              },
+              {
+                "chave": "uf=\"SP\", fistel=\"50403112907\", num_estacao=\"689977298\"",
+                "esperado": "\"OUTRAS\"",
+                "obtido": "\"OI\""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tabela": "emissao",
+        "linhasGabarito": 7468991,
+        "linhasSolucao": 7468991,
+        "acertos": 7464627,
+        "divergentes": 4364,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 0.9994157175982673,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": [
+          {
+            "coluna": "largura_banda_khz",
+            "divergencias": 1989,
+            "exemplos": [
+              {
+                "chave": "uf=\"AL\", fistel=\"50013414186\", num_estacao=\"686902904\", num_ato=\"67382015\", azimute=328.9, freq_tx_mhz=38.89025, freq_rx_mhz=37.63025, designacao_emissao=\"3M45D7W--\", tecnologia=NULL",
+                "esperado": "3450",
+                "obtido": "3449.9999999999995"
+              },
+              {
+                "chave": "uf=\"AL\", fistel=\"50013414186\", num_estacao=\"688471501\", num_ato=\"67382015\", azimute=324.7, freq_tx_mhz=23.296, freq_rx_mhz=22.064, designacao_emissao=\"3M45D7W--\", tecnologia=NULL",
+                "esperado": "3450",
+                "obtido": "3449.9999999999995"
+              },
+              {
+                "chave": "uf=\"AL\", fistel=\"50013414186\", num_estacao=\"688472320\", num_ato=\"67382015\", azimute=45.1, freq_tx_mhz=23.191, freq_rx_mhz=21.959, designacao_emissao=\"3M45D7W--\", tecnologia=NULL",
+                "esperado": "3450",
+                "obtido": "3449.9999999999995"
+              },
+              {
+                "chave": "uf=\"AL\", fistel=\"50013414186\", num_estacao=\"686901509\", num_ato=\"67382015\", azimute=47.9, freq_tx_mhz=23.296, freq_rx_mhz=22.064, designacao_emissao=\"3M45G7W--\", tecnologia=NULL",
+                "esperado": "3450",
+                "obtido": "3449.9999999999995"
+              },
+              {
+                "chave": "uf=\"AL\", fistel=\"50013414186\", num_estacao=\"686901509\", num_ato=\"67382015\", azimute=16, freq_tx_mhz=23.261, freq_rx_mhz=22.029, designacao_emissao=\"3M45D7W--\", tecnologia=NULL",
+                "esperado": "3450",
+                "obtido": "3449.9999999999995"
+              }
+            ]
+          },
+          {
+            "coluna": "duplex_mhz",
+            "divergencias": 2375,
+            "exemplos": [
+              {
+                "chave": "uf=\"DF\", fistel=\"50450314308\", num_estacao=\"623298040\", num_ato=\"388902003\", azimute=0, freq_tx_mhz=0.1345, freq_rx_mhz=0, designacao_emissao=\"500HJ3E\", tecnologia=NULL",
+                "esperado": "0.134",
+                "obtido": "0.135"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"698079361\", num_ato=\"902020\", azimute=0, freq_tx_mhz=158.13125, freq_rx_mhz=163.19375, designacao_emissao=\"8K10F1E\", tecnologia=NULL",
+                "esperado": "-5.062",
+                "obtido": "-5.063"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"699002184\", num_ato=\"902020\", azimute=0, freq_tx_mhz=158.13125, freq_rx_mhz=163.19375, designacao_emissao=\"12K5F1E\", tecnologia=NULL",
+                "esperado": "-5.062",
+                "obtido": "-5.063"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"1002978510\", num_ato=\"902020\", azimute=0, freq_tx_mhz=158.13125, freq_rx_mhz=163.19375, designacao_emissao=\"8K10F1E\", tecnologia=NULL",
+                "esperado": "-5.062",
+                "obtido": "-5.063"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"1002605730\", num_ato=\"902020\", azimute=0, freq_tx_mhz=158.13125, freq_rx_mhz=163.19375, designacao_emissao=\"12K5F1E\", tecnologia=NULL",
+                "esperado": "-5.062",
+                "obtido": "-5.063"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "linhasGabarito": 8373256,
+    "acertos": 8368884,
+    "divergentes": 4372,
+    "ausentes": 0,
+    "excedentes": 0,
+    "taxa": 0.9994778614197393,
+    "aceita": true,
+    "categoriaFalha": null,
+    "detalheFalha": null,
+    "erros": null
+  }
+}

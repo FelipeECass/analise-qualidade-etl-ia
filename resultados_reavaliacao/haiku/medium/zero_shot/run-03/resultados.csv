@@ -1,0 +1,2 @@
+rotulo,empresa,modelo,condicao,geracao,iteracao,taxa,aceita,ausentes,excedentes,divergentes,avisos,categoria_falha
+claude_haiku_zeroshot_r3_i2,claude,haiku,zeroshot,3,2,0.9999868629359953,sim,0,0,110,0,

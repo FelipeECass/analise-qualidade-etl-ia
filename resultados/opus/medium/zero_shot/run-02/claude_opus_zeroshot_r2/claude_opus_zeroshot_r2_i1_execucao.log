@@ -1,0 +1,42 @@
+﻿> dotnet build /workspace/src/claude_opus_zeroshot_r2 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:06.43
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_opus_zeroshot_r2 -c Release --no-build  (código 0)
+AC.zip: 9315 linhas lidas
+AL.zip: 231806 linhas lidas
+AM.zip: 69493 linhas lidas
+AP.zip: 30384 linhas lidas
+BA.zip: 320555 linhas lidas
+CE.zip: 292154 linhas lidas
+DF.zip: 111459 linhas lidas
+ES.zip: 238606 linhas lidas
+GO.zip: 264157 linhas lidas
+MA.zip: 326868 linhas lidas
+MG.zip: 1086420 linhas lidas
+MS.zip: 162981 linhas lidas
+MT.zip: 122545 linhas lidas
+PA.zip: 258380 linhas lidas
+PB.zip: 54087 linhas lidas
+PE.zip: 140647 linhas lidas
+PI.zip: 44448 linhas lidas
+PR.zip: 461934 linhas lidas
+RJ.zip: 509904 linhas lidas
+RN.zip: 49721 linhas lidas
+RO.zip: 37089 linhas lidas
+RR.zip: 9171 linhas lidas
+RS.zip: 272815 linhas lidas
+SC.zip: 252976 linhas lidas
+SE.zip: 37214 linhas lidas
+SP.zip: 2323599 linhas lidas
+TO.zip: 41777 linhas lidas
+Lidas=7760505 Rejeitadas=0 Duplicadas=291514 Estações=904265 Emissões=7468991
+Concluído em 00:02:01.7219623. Banco: /workspace/db/claude_opus_zeroshot_r2.db
+
+

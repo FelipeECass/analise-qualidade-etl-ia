@@ -1,0 +1,26 @@
+{
+  "rotulo": "claude_haiku_zeroshot_r3_i1",
+  "empresa": "claude",
+  "modelo": "haiku",
+  "condicao": "zeroshot",
+  "geracao": "3",
+  "iteracao": "1",
+  "dataHora": "2026-11-13T06:39:13.5535847+00:00",
+  "resultado": {
+    "gabaritoSha256": "334998eecff0ab898bede99cf0b163e2da5d03593bbf39c12558b3064b1df0c7",
+    "solucaoSha256": null,
+    "errosEsquema": [],
+    "avisos": [],
+    "tabelas": [],
+    "linhasGabarito": 0,
+    "acertos": 0,
+    "divergentes": 0,
+    "ausentes": 0,
+    "excedentes": 0,
+    "taxa": 0,
+    "aceita": false,
+    "categoriaFalha": "erro de compilação ou ausência de código gerado",
+    "detalheFalha": "execução",
+    "erros": "Erro: Pasta de entrada não encontrada: D:\\Projects\\TCC/files\nSystem.IO.DirectoryNotFoundException: Pasta de entrada não encontrada: D:\\Projects\\TCC/files\n   at ClaudeHaikuZeroshotR3.Program.Executar() in /workspace/src/claude_haiku_zeroshot_r3/Program.cs:line 39\n   at ClaudeHaikuZeroshotR3.Program.Main() in /workspace/src/claude_haiku_zeroshot_r3/Program.cs:line 14"
+  }
+}

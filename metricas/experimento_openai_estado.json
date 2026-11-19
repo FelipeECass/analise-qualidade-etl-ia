@@ -1,0 +1,110 @@
+﻿{
+    "sol/medium/zero_shot/run-03":  {
+                                        "fim":  "2026-11-14T11:51:22",
+                                        "status":  "aceita",
+                                        "respostas_padrao":  1,
+                                        "iteracoes":  2
+                                    },
+    "terra/medium/zero_shot/run-03":  {
+                                          "fim":  "2026-11-14T07:05:14",
+                                          "status":  "aceita",
+                                          "respostas_padrao":  0,
+                                          "iteracoes":  1
+                                      },
+    "terra/medium/completo/run-03":  {
+                                         "fim":  "2026-11-14T12:52:13",
+                                         "status":  "aceita",
+                                         "respostas_padrao":  1,
+                                         "iteracoes":  2
+                                     },
+    "terra/medium/zero_shot/run-02":  {
+                                          "fim":  "2026-11-14T06:46:17",
+                                          "status":  "aceita",
+                                          "respostas_padrao":  0,
+                                          "iteracoes":  1
+                                      },
+    "terra/medium/completo/run-01":  {
+                                         "fim":  "2026-11-14T07:16:04",
+                                         "status":  "aceita",
+                                         "respostas_padrao":  0,
+                                         "iteracoes":  1
+                                     },
+    "luna/medium/completo/run-03":  {
+                                        "fim":  "2026-11-14T13:35:13",
+                                        "status":  "aceita",
+                                        "respostas_padrao":  0,
+                                        "iteracoes":  1
+                                    },
+    "luna/medium/zero_shot/run-03":  {
+                                         "fim":  "2026-11-14T13:17:46",
+                                         "status":  "aceita",
+                                         "respostas_padrao":  0,
+                                         "iteracoes":  2
+                                     },
+    "sol/medium/zero_shot/run-02":  {
+                                        "fim":  "2026-11-14T11:35:54",
+                                        "status":  "aceita",
+                                        "respostas_padrao":  1,
+                                        "iteracoes":  2
+                                    },
+    "sol/medium/completo/run-03":  {
+                                       "fim":  "2026-11-14T12:36:54",
+                                       "status":  "aceita",
+                                       "respostas_padrao":  1,
+                                       "iteracoes":  2
+                                   },
+    "terra/medium/completo/run-02":  {
+                                         "fim":  "2026-11-14T07:33:33",
+                                         "status":  "aceita",
+                                         "respostas_padrao":  0,
+                                         "iteracoes":  1
+                                     },
+    "sol/medium/completo/run-02":  {
+                                       "fim":  "2026-11-14T05:22:29",
+                                       "status":  "aceita",
+                                       "respostas_padrao":  1,
+                                       "iteracoes":  2
+                                   },
+    "luna/medium/completo/run-01":  {
+                                        "fim":  "2026-11-14T10:22:51",
+                                        "status":  "aceita",
+                                        "respostas_padrao":  0,
+                                        "iteracoes":  2
+                                    },
+    "luna/medium/zero_shot/run-02":  {
+                                         "fim":  "2026-11-14T09:07:59",
+                                         "status":  "aceita",
+                                         "respostas_padrao":  0,
+                                         "iteracoes":  3
+                                     },
+    "sol/medium/zero_shot/run-01":  {
+                                        "fim":  "2026-11-14T02:01:19",
+                                        "status":  "aceita",
+                                        "respostas_padrao":  1,
+                                        "iteracoes":  2
+                                    },
+    "sol/medium/completo/run-01":  {
+                                       "fim":  "2026-11-14T12:10:55",
+                                       "status":  "aceita",
+                                       "respostas_padrao":  1,
+                                       "iteracoes":  2
+                                   },
+    "terra/medium/zero_shot/run-01":  {
+                                          "fim":  "2026-11-14T06:30:08",
+                                          "status":  "aceita",
+                                          "respostas_padrao":  0,
+                                          "iteracoes":  1
+                                      },
+    "luna/medium/completo/run-02":  {
+                                        "fim":  "2026-11-14T10:36:14",
+                                        "status":  "aceita",
+                                        "respostas_padrao":  0,
+                                        "iteracoes":  1
+                                    },
+    "luna/medium/zero_shot/run-01":  {
+                                         "fim":  "2026-11-14T08:45:40",
+                                         "status":  "aceita",
+                                         "respostas_padrao":  1,
+                                         "iteracoes":  2
+                                     }
+}

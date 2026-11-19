@@ -1,0 +1,41 @@
+﻿> dotnet build /workspace/src/claude_opus_zeroshot_r3 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:06.19
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_opus_zeroshot_r3 -c Release --no-build  (código 0)
+AC.zip: lidas=9315 rejeitadas=0 duplicadas=173 emissoes=9142 estacoes=1260
+AL.zip: lidas=231806 rejeitadas=0 duplicadas=2408 emissoes=229398 estacoes=10420
+AM.zip: lidas=69493 rejeitadas=0 duplicadas=7567 emissoes=61926 estacoes=10238
+AP.zip: lidas=30384 rejeitadas=0 duplicadas=1730 emissoes=28654 estacoes=5669
+BA.zip: lidas=320555 rejeitadas=0 duplicadas=15343 emissoes=305212 estacoes=36285
+CE.zip: lidas=292154 rejeitadas=0 duplicadas=6290 emissoes=285864 estacoes=20946
+DF.zip: lidas=111459 rejeitadas=0 duplicadas=2943 emissoes=108516 estacoes=11363
+ES.zip: lidas=238606 rejeitadas=0 duplicadas=4201 emissoes=234405 estacoes=19239
+GO.zip: lidas=264157 rejeitadas=0 duplicadas=9674 emissoes=254483 estacoes=32377
+MA.zip: lidas=326868 rejeitadas=0 duplicadas=7748 emissoes=319120 estacoes=21350
+MG.zip: lidas=1086420 rejeitadas=0 duplicadas=67281 emissoes=1019139 estacoes=113304
+MS.zip: lidas=162981 rejeitadas=0 duplicadas=2273 emissoes=160708 estacoes=21157
+MT.zip: lidas=122545 rejeitadas=0 duplicadas=2934 emissoes=119611 estacoes=35283
+PA.zip: lidas=258380 rejeitadas=0 duplicadas=15230 emissoes=243150 estacoes=23407
+PB.zip: lidas=54087 rejeitadas=0 duplicadas=2372 emissoes=51715 estacoes=8138
+PE.zip: lidas=140647 rejeitadas=0 duplicadas=5685 emissoes=134962 estacoes=20109
+PI.zip: lidas=44448 rejeitadas=0 duplicadas=1806 emissoes=42642 estacoes=5806
+PR.zip: lidas=461934 rejeitadas=0 duplicadas=11997 emissoes=449937 estacoes=58803
+RJ.zip: lidas=509904 rejeitadas=0 duplicadas=20116 emissoes=489788 estacoes=56879
+RN.zip: lidas=49721 rejeitadas=0 duplicadas=3149 emissoes=46572 estacoes=8224
+RO.zip: lidas=37089 rejeitadas=0 duplicadas=617 emissoes=36472 estacoes=6796
+RR.zip: lidas=9171 rejeitadas=0 duplicadas=657 emissoes=8514 estacoes=1798
+RS.zip: lidas=272815 rejeitadas=0 duplicadas=18651 emissoes=254164 estacoes=37950
+SC.zip: lidas=252976 rejeitadas=0 duplicadas=9168 emissoes=243808 estacoes=36540
+SE.zip: lidas=37214 rejeitadas=0 duplicadas=1837 emissoes=35377 estacoes=5042
+SP.zip: lidas=2323599 rejeitadas=0 duplicadas=67878 emissoes=2255721 estacoes=290873
+TO.zip: lidas=41777 rejeitadas=0 duplicadas=1786 emissoes=39991 estacoes=5009
+Concluído em 00:02:10.8465193. Banco: /workspace/db/claude_opus_zeroshot_r3.db
+
+

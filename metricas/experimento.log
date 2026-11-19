@@ -1,0 +1,109 @@
+﻿2026-11-12 23:24:07  ==== Início: 18 execuções, até 20 iterações cada ====
+2026-11-12 23:24:07  opus/medium/zero_shot/run-01: iteração 1 (tentativa 1)
+2026-11-12 23:35:27  opus/medium/zero_shot/run-01: ACEITA na iteração 1
+2026-11-12 23:35:27  opus/medium/zero_shot/run-02: iteração 1 (tentativa 1)
+2026-11-12 23:48:49  ==== Início: 18 execuções, até 20 iterações cada ====
+2026-11-12 23:48:50  Pulando opus/medium/zero_shot/run-01 (já aceita)
+2026-11-12 23:48:50  opus/medium/zero_shot/run-02: iteração 1 (tentativa 1)
+2026-11-12 23:59:04  opus/medium/zero_shot/run-02: ACEITA na iteração 1
+2026-11-12 23:59:04  opus/medium/zero_shot/run-03: iteração 1 (tentativa 1)
+2026-11-13 00:10:10  opus/medium/zero_shot/run-03: ACEITA na iteração 1
+2026-11-13 00:10:10  opus/medium/completo/run-01: iteração 1 (tentativa 1)
+2026-11-13 00:30:59  opus/medium/completo/run-01: ACEITA na iteração 1
+2026-11-13 00:30:59  opus/medium/completo/run-02: iteração 1 (tentativa 1)
+2026-11-13 00:48:23  opus/medium/completo/run-02: ACEITA na iteração 1
+2026-11-13 00:48:23  opus/medium/completo/run-03: iteração 1 (tentativa 1)
+2026-11-13 01:06:00  opus/medium/completo/run-03: ACEITA na iteração 1
+2026-11-13 01:06:00  sonnet/high/zero_shot/run-01: iteração 1 (tentativa 1)
+2026-11-13 01:15:06  sonnet/high/zero_shot/run-01: ACEITA na iteração 1
+2026-11-13 01:15:06  sonnet/high/zero_shot/run-02: iteração 1 (tentativa 1)
+2026-11-13 01:24:16  sonnet/high/zero_shot/run-02: NÃO ACEITA; re-prompt, iteração 2
+2026-11-13 01:38:22  sonnet/high/zero_shot/run-02: ACEITA na iteração 2
+2026-11-13 01:38:22  sonnet/high/zero_shot/run-03: iteração 1 (tentativa 1)
+2026-11-13 01:47:54  sonnet/high/zero_shot/run-03: ACEITA na iteração 1
+2026-11-13 01:47:54  sonnet/high/completo/run-01: iteração 1 (tentativa 1)
+2026-11-13 02:09:22  sonnet/high/completo/run-01: ACEITA na iteração 1
+2026-11-13 02:09:22  sonnet/high/completo/run-02: iteração 1 (tentativa 1)
+2026-11-13 02:26:19  sonnet/high/completo/run-02: ACEITA na iteração 1
+2026-11-13 02:26:19  sonnet/high/completo/run-03: iteração 1 (tentativa 1)
+2026-11-13 02:46:02  sonnet/high/completo/run-03: ACEITA na iteração 1
+2026-11-13 02:46:02  haiku/medium/zero_shot/run-01: iteração 1 (tentativa 1)
+2026-11-13 02:58:36  haiku/medium/zero_shot/run-01: ACEITA na iteração 1
+2026-11-13 02:58:36  haiku/medium/zero_shot/run-02: iteração 1 (tentativa 1)
+2026-11-13 03:09:57  haiku/medium/zero_shot/run-02: ACEITA na iteração 1
+2026-11-13 03:09:57  haiku/medium/zero_shot/run-03: iteração 1 (tentativa 1)
+2026-11-13 03:39:16  haiku/medium/zero_shot/run-03: NÃO ACEITA; re-prompt, iteração 2
+2026-11-13 03:47:55  haiku/medium/zero_shot/run-03: ACEITA na iteração 2
+2026-11-13 03:47:55  haiku/medium/completo/run-01: iteração 1 (tentativa 1)
+2026-11-13 04:28:39  haiku/medium/completo/run-01: ACEITA na iteração 1
+2026-11-13 04:28:39  haiku/medium/completo/run-02: iteração 1 (tentativa 1)
+2026-11-13 19:39:28  ==== Início: 24 execuções, até 20 iterações cada ====
+2026-11-13 19:39:29  Pulando opus/medium/zero_shot/run-01 (já aceita)
+2026-11-13 19:39:29  Pulando opus/medium/zero_shot/run-02 (já aceita)
+2026-11-13 19:39:29  Pulando opus/medium/zero_shot/run-03 (já aceita)
+2026-11-13 19:39:29  Pulando opus/medium/completo/run-01 (já aceita)
+2026-11-13 19:39:29  Pulando opus/medium/completo/run-02 (já aceita)
+2026-11-13 19:39:29  Pulando opus/medium/completo/run-03 (já aceita)
+2026-11-13 19:39:29  Pulando sonnet/high/zero_shot/run-01 (já aceita)
+2026-11-13 19:39:29  Pulando sonnet/high/zero_shot/run-02 (já aceita)
+2026-11-13 19:39:29  Pulando sonnet/high/zero_shot/run-03 (já aceita)
+2026-11-13 19:39:29  Pulando sonnet/high/completo/run-01 (já aceita)
+2026-11-13 19:39:29  Pulando sonnet/high/completo/run-02 (já aceita)
+2026-11-13 19:39:29  Pulando sonnet/high/completo/run-03 (já aceita)
+2026-11-13 19:39:29  Pulando haiku/medium/zero_shot/run-01 (já aceita)
+2026-11-13 19:39:29  Pulando haiku/medium/zero_shot/run-02 (já aceita)
+2026-11-13 19:39:29  Pulando haiku/medium/zero_shot/run-03 (já aceita)
+2026-11-13 19:39:29  Pulando haiku/medium/completo/run-01 (já aceita)
+2026-11-13 19:39:29  haiku/medium/completo/run-02: iteração 1 (tentativa 1)
+2026-11-13 20:19:37  haiku/medium/completo/run-02: NÃO ACEITA; re-prompt, iteração 2
+2026-11-13 20:30:51  haiku/medium/completo/run-02: ACEITA na iteração 2
+2026-11-13 20:30:51  haiku/medium/completo/run-03: iteração 1 (tentativa 1)
+2026-11-13 21:07:29  haiku/medium/completo/run-03: ACEITA na iteração 1
+2026-11-13 21:07:29  sonnet/medium/zero_shot/run-01: iteração 1 (tentativa 1)
+2026-11-13 21:13:38  sonnet/medium/zero_shot/run-01: NÃO ACEITA; re-prompt, iteração 2
+2026-11-13 21:21:37  sonnet/medium/zero_shot/run-01: ACEITA na iteração 2
+2026-11-13 21:21:37  sonnet/medium/zero_shot/run-02: iteração 1 (tentativa 1)
+2026-11-13 21:30:58  sonnet/medium/zero_shot/run-02: NÃO ACEITA; re-prompt, iteração 2
+2026-11-13 21:40:09  sonnet/medium/zero_shot/run-02: ACEITA na iteração 2
+2026-11-13 21:40:09  sonnet/medium/zero_shot/run-03: iteração 1 (tentativa 1)
+2026-11-13 21:51:44  sonnet/medium/zero_shot/run-03: ACEITA na iteração 1
+2026-11-13 21:51:44  sonnet/medium/completo/run-01: iteração 1 (tentativa 1)
+2026-11-13 22:03:06  sonnet/medium/completo/run-01: ACEITA na iteração 1
+2026-11-13 22:03:06  sonnet/medium/completo/run-02: iteração 1 (tentativa 1)
+2026-11-13 22:17:10  sonnet/medium/completo/run-02: ACEITA na iteração 1
+2026-11-13 22:17:10  sonnet/medium/completo/run-03: iteração 1 (tentativa 1)
+2026-11-13 22:32:34  sonnet/medium/completo/run-03: ACEITA na iteração 1
+2026-11-13 22:32:34  ==== Execuções terminadas ====
+2026-11-13 22:32:34  Gerando métricas de tokens e interações
+2026-11-13 22:32:37  Rodando SonarQube em todas as soluções
+2026-11-13 22:38:33  ==== Fim ====
+2026-11-14 01:03:37  ==== Início: 24 execuções, até 20 iterações cada ====
+2026-11-14 01:03:37  Pulando opus/medium/zero_shot/run-01 (já aceita)
+2026-11-14 01:03:37  Pulando opus/medium/zero_shot/run-02 (já aceita)
+2026-11-14 01:03:37  Pulando opus/medium/zero_shot/run-03 (já aceita)
+2026-11-14 01:03:37  Pulando opus/medium/completo/run-01 (já aceita)
+2026-11-14 01:03:37  Pulando opus/medium/completo/run-02 (já aceita)
+2026-11-14 01:03:37  opus/medium/completo/run-03: iteração 1 (tentativa 1)
+2026-11-14 01:25:20  opus/medium/completo/run-03: ACEITA na iteração 1
+2026-11-14 01:25:20  Pulando sonnet/high/zero_shot/run-01 (já aceita)
+2026-11-14 01:25:20  Pulando sonnet/high/zero_shot/run-02 (já aceita)
+2026-11-14 01:25:20  Pulando sonnet/high/zero_shot/run-03 (já aceita)
+2026-11-14 01:25:20  Pulando sonnet/high/completo/run-01 (já aceita)
+2026-11-14 01:25:20  Pulando sonnet/high/completo/run-02 (já aceita)
+2026-11-14 01:25:20  Pulando sonnet/high/completo/run-03 (já aceita)
+2026-11-14 01:25:20  Pulando haiku/medium/zero_shot/run-01 (já aceita)
+2026-11-14 01:25:20  Pulando haiku/medium/zero_shot/run-02 (já aceita)
+2026-11-14 01:25:20  Pulando haiku/medium/zero_shot/run-03 (já aceita)
+2026-11-14 01:25:20  Pulando haiku/medium/completo/run-01 (já aceita)
+2026-11-14 01:25:20  Pulando haiku/medium/completo/run-02 (já aceita)
+2026-11-14 01:25:20  Pulando haiku/medium/completo/run-03 (já aceita)
+2026-11-14 01:25:20  Pulando sonnet/medium/zero_shot/run-01 (já aceita)
+2026-11-14 01:25:20  Pulando sonnet/medium/zero_shot/run-02 (já aceita)
+2026-11-14 01:25:20  Pulando sonnet/medium/zero_shot/run-03 (já aceita)
+2026-11-14 01:25:20  Pulando sonnet/medium/completo/run-01 (já aceita)
+2026-11-14 01:25:20  Pulando sonnet/medium/completo/run-02 (já aceita)
+2026-11-14 01:25:20  Pulando sonnet/medium/completo/run-03 (já aceita)
+2026-11-14 01:25:20  ==== Execuções terminadas ====
+2026-11-14 01:25:20  Gerando métricas de tokens e interações
+2026-11-14 01:25:22  Rodando SonarQube em todas as soluções
+2026-11-14 01:29:42  ==== Fim ====

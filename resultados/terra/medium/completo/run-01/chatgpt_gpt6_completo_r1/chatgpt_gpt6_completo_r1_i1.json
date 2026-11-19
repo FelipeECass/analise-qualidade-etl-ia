@@ -1,0 +1,116 @@
+{
+  "rotulo": "chatgpt_gpt6_completo_r1_i1",
+  "empresa": "chatgpt",
+  "modelo": "gpt6",
+  "condicao": "completo",
+  "geracao": "1",
+  "iteracao": "1",
+  "dataHora": "2026-11-14T10:16:03.6650538+00:00",
+  "resultado": {
+    "gabaritoSha256": "334998eecff0ab898bede99cf0b163e2da5d03593bbf39c12558b3064b1df0c7",
+    "solucaoSha256": "3394b74e1aa611cb7c446790b1e213cbdbf612f9ecefce0a7771e5a7c0f36b38",
+    "errosEsquema": [],
+    "avisos": [],
+    "tabelas": [
+      {
+        "tabela": "estacao",
+        "linhasGabarito": 904265,
+        "linhasSolucao": 904265,
+        "acertos": 904265,
+        "divergentes": 0,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 1,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": []
+      },
+      {
+        "tabela": "emissao",
+        "linhasGabarito": 7468991,
+        "linhasSolucao": 7468991,
+        "acertos": 7466582,
+        "divergentes": 2409,
+        "ausentes": 0,
+        "excedentes": 0,
+        "taxa": 0.9996774664743873,
+        "exemplosAusentes": [],
+        "exemplosExcedentes": [],
+        "colunas": [
+          {
+            "coluna": "largura_banda_khz",
+            "divergencias": 34,
+            "exemplos": [
+              {
+                "chave": "uf=\"MS\", fistel=\"50406491933\", num_estacao=\"1005648597\", num_ato=\"64202018\", azimute=0, freq_tx_mhz=451.06875, freq_rx_mhz=451.06875, designacao_emissao=\"7K69F1W\", tecnologia=NULL",
+                "esperado": "7.69",
+                "obtido": "7.6899999999999995"
+              },
+              {
+                "chave": "uf=\"MS\", fistel=\"50406491933\", num_estacao=\"1005648619\", num_ato=\"64202018\", azimute=0, freq_tx_mhz=451.06875, freq_rx_mhz=451.06875, designacao_emissao=\"7K69F1W\", tecnologia=NULL",
+                "esperado": "7.69",
+                "obtido": "7.6899999999999995"
+              },
+              {
+                "chave": "uf=\"MS\", fistel=\"50406491933\", num_estacao=\"1005648627\", num_ato=\"64202018\", azimute=0, freq_tx_mhz=451.06875, freq_rx_mhz=451.06875, designacao_emissao=\"7K69F1W\", tecnologia=NULL",
+                "esperado": "7.69",
+                "obtido": "7.6899999999999995"
+              },
+              {
+                "chave": "uf=\"MS\", fistel=\"50406491933\", num_estacao=\"1005648635\", num_ato=\"64202018\", azimute=0, freq_tx_mhz=451.06875, freq_rx_mhz=451.06875, designacao_emissao=\"7K69F1W\", tecnologia=NULL",
+                "esperado": "7.69",
+                "obtido": "7.6899999999999995"
+              },
+              {
+                "chave": "uf=\"MS\", fistel=\"50406491933\", num_estacao=\"1005648643\", num_ato=\"64202018\", azimute=0, freq_tx_mhz=451.06875, freq_rx_mhz=451.06875, designacao_emissao=\"7K69F1W\", tecnologia=NULL",
+                "esperado": "7.69",
+                "obtido": "7.6899999999999995"
+              }
+            ]
+          },
+          {
+            "coluna": "duplex_mhz",
+            "divergencias": 2375,
+            "exemplos": [
+              {
+                "chave": "uf=\"DF\", fistel=\"50450314308\", num_estacao=\"623298040\", num_ato=\"388902003\", azimute=0, freq_tx_mhz=0.1345, freq_rx_mhz=0, designacao_emissao=\"500HJ3E\", tecnologia=NULL",
+                "esperado": "0.134",
+                "obtido": "0.135"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"698079361\", num_ato=\"902020\", azimute=0, freq_tx_mhz=158.13125, freq_rx_mhz=163.19375, designacao_emissao=\"8K10F1E\", tecnologia=NULL",
+                "esperado": "-5.062",
+                "obtido": "-5.063"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"699002184\", num_ato=\"902020\", azimute=0, freq_tx_mhz=158.13125, freq_rx_mhz=163.19375, designacao_emissao=\"12K5F1E\", tecnologia=NULL",
+                "esperado": "-5.062",
+                "obtido": "-5.063"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"1002978510\", num_ato=\"902020\", azimute=0, freq_tx_mhz=158.13125, freq_rx_mhz=163.19375, designacao_emissao=\"8K10F1E\", tecnologia=NULL",
+                "esperado": "-5.062",
+                "obtido": "-5.063"
+              },
+              {
+                "chave": "uf=\"ES\", fistel=\"50003817504\", num_estacao=\"1002605730\", num_ato=\"902020\", azimute=0, freq_tx_mhz=158.13125, freq_rx_mhz=163.19375, designacao_emissao=\"12K5F1E\", tecnologia=NULL",
+                "esperado": "-5.062",
+                "obtido": "-5.063"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "linhasGabarito": 8373256,
+    "acertos": 8370847,
+    "divergentes": 2409,
+    "ausentes": 0,
+    "excedentes": 0,
+    "taxa": 0.9997122982982963,
+    "aceita": true,
+    "categoriaFalha": null,
+    "detalheFalha": null,
+    "erros": null
+  }
+}

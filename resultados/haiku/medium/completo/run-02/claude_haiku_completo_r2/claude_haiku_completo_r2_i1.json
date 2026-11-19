@@ -1,0 +1,26 @@
+{
+  "rotulo": "claude_haiku_completo_r2_i1",
+  "empresa": "claude",
+  "modelo": "haiku",
+  "condicao": "completo",
+  "geracao": "2",
+  "iteracao": "1",
+  "dataHora": "2026-11-13T23:19:35.3694418+00:00",
+  "resultado": {
+    "gabaritoSha256": "334998eecff0ab898bede99cf0b163e2da5d03593bbf39c12558b3064b1df0c7",
+    "solucaoSha256": null,
+    "errosEsquema": [],
+    "avisos": [],
+    "tabelas": [],
+    "linhasGabarito": 0,
+    "acertos": 0,
+    "divergentes": 0,
+    "ausentes": 0,
+    "excedentes": 0,
+    "taxa": 0,
+    "aceita": false,
+    "categoriaFalha": "erro de compilação ou ausência de código gerado",
+    "detalheFalha": "execução",
+    "erros": "ERRO: System.IO.FileNotFoundException: Arquivo de entrada não encontrado.\nFile name: 'D:\\Projects\\TCC/files/AC.zip'\n   at ClaudeHaikuCompletoR2.Program.Executar() in /workspace/src/claude_haiku_completo_r2/Program.cs:line 37\n   at ClaudeHaikuCompletoR2.Program.Main() in /workspace/src/claude_haiku_completo_r2/Program.cs:line 18"
+  }
+}

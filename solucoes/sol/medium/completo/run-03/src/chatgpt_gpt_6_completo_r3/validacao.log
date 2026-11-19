@@ -1,0 +1,35 @@
+{
+  "banco": "/workspace/db/chatgpt_gpt_6_completo_r3.db",
+  "tamanho_bytes": 1997119488,
+  "integridade": "ok",
+  "esquema": "idêntico ao DDL.sql",
+  "foreign_keys": "ok",
+  "tabelas": {
+    "estacao": {
+      "linhas": 904265,
+      "violacoes": {
+        "chave_vazia": 0,
+        "coordenada_valida": 0,
+        "operadora_desconhecida": 0,
+        "textos_nao_limpos": 0
+      }
+    },
+    "emissao": {
+      "linhas": 7468991,
+      "violacoes": {
+        "chave_vazia": 0,
+        "geracao": 0,
+        "azimute_valido": 0,
+        "elevacao_valida": 0,
+        "vencida": 0,
+        "anos_licenciada": 0,
+        "duplex": 0,
+        "potencia_dbm": 0,
+        "largura_banda_negativa": 0,
+        "textos_nao_limpos": 0,
+        "datas_invalidas": 0
+      }
+    }
+  },
+  "grupos_duplicados_emissao": 0
+}

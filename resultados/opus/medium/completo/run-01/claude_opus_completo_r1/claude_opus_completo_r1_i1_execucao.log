@@ -1,0 +1,43 @@
+﻿> dotnet build /workspace/src/claude_opus_completo_r1 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:05.61
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_opus_completo_r1 -c Release --no-build  (código 0)
+AC.zip: 9315 linhas (00:00:00)
+AL.zip: 231806 linhas (00:00:04)
+AM.zip: 69493 linhas (00:00:05)
+AP.zip: 30384 linhas (00:00:05)
+BA.zip: 320555 linhas (00:00:10)
+CE.zip: 292154 linhas (00:00:14)
+DF.zip: 111459 linhas (00:00:16)
+ES.zip: 238606 linhas (00:00:19)
+GO.zip: 264157 linhas (00:00:23)
+MA.zip: 326868 linhas (00:00:28)
+MG.zip: 1086420 linhas (00:00:44)
+MS.zip: 162981 linhas (00:00:47)
+MT.zip: 122545 linhas (00:00:49)
+PA.zip: 258380 linhas (00:00:52)
+PB.zip: 54087 linhas (00:00:53)
+PE.zip: 140647 linhas (00:00:56)
+PI.zip: 44448 linhas (00:00:56)
+PR.zip: 461934 linhas (00:01:03)
+RJ.zip: 509904 linhas (00:01:11)
+RN.zip: 49721 linhas (00:01:12)
+RO.zip: 37089 linhas (00:01:13)
+RR.zip: 9171 linhas (00:01:13)
+RS.zip: 272815 linhas (00:01:17)
+SC.zip: 252976 linhas (00:01:21)
+SE.zip: 37214 linhas (00:01:21)
+SP.zip: 2323599 linhas (00:01:57)
+TO.zip: 41777 linhas (00:01:58)
+Linhas lidas: 7760505; rejeitadas: 0; emissões duplicadas: 291514
+Estações gravadas: 904265; emissões gravadas: 7468991
+Banco: /workspace/db/claude_opus_completo_r1.db (00:01:58)
+
+

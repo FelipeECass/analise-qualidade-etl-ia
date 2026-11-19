@@ -1,0 +1,46 @@
+﻿> dotnet build /workspace/src/claude_haiku_completo_r2 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:07.27
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/claude_haiku_completo_r2 -c Release --no-build  (código 0)
+AC: 9,315 linhas, 0 rejeitadas (00:00).
+AL: 231,806 linhas, 0 rejeitadas (00:07).
+AM: 69,493 linhas, 0 rejeitadas (00:01).
+AP: 30,384 linhas, 0 rejeitadas (00:00).
+BA: 320,555 linhas, 0 rejeitadas (00:08).
+CE: 292,154 linhas, 0 rejeitadas (00:07).
+DF: 111,459 linhas, 0 rejeitadas (00:02).
+ES: 238,606 linhas, 0 rejeitadas (00:06).
+GO: 264,157 linhas, 0 rejeitadas (00:07).
+MA: 326,868 linhas, 0 rejeitadas (00:08).
+MG: 1,086,420 linhas, 0 rejeitadas (00:28).
+MS: 162,981 linhas, 0 rejeitadas (00:04).
+MT: 122,545 linhas, 0 rejeitadas (00:03).
+PA: 258,380 linhas, 0 rejeitadas (00:06).
+PB: 54,087 linhas, 0 rejeitadas (00:01).
+PE: 140,647 linhas, 0 rejeitadas (00:03).
+PI: 44,448 linhas, 0 rejeitadas (00:01).
+PR: 461,934 linhas, 0 rejeitadas (00:12).
+RJ: 509,904 linhas, 0 rejeitadas (00:13).
+RN: 49,721 linhas, 0 rejeitadas (00:01).
+RO: 37,089 linhas, 0 rejeitadas (00:01).
+RR: 9,171 linhas, 0 rejeitadas (00:00).
+RS: 272,815 linhas, 0 rejeitadas (00:07).
+SC: 252,976 linhas, 0 rejeitadas (00:06).
+SE: 37,214 linhas, 0 rejeitadas (00:00).
+SP: 2,323,599 linhas, 0 rejeitadas (01:00).
+TO: 41,777 linhas, 0 rejeitadas (00:01).
+
+Concluído em 00:03:26.0100292.
+Linhas lidas: 7,760,505; rejeitadas: 0.
+Estações gravadas: 904,265.
+Emissões gravadas: 7,468,991; duplicadas descartadas: 291,514.
+Banco: /workspace/db/claude_haiku_completo_r2.db
+
+

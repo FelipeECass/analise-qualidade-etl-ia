@@ -1,0 +1,41 @@
+﻿> dotnet build /workspace/src/chatgpt_gpt6_zeroshot_r1 -c Release -nologo -v q -clp:ErrorsOnly;NoSummary --disable-build-servers  (código 0)
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:06.61
+
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+
+> dotnet run --project /workspace/src/chatgpt_gpt6_zeroshot_r1 -c Release --no-build  (código 0)
+AC.zip: 9,315 linhas lidas, 9,142 emissões carregadas (acumulado).
+AL.zip: 241,121 linhas lidas, 238,540 emissões carregadas (acumulado).
+AM.zip: 310,614 linhas lidas, 300,466 emissões carregadas (acumulado).
+AP.zip: 340,998 linhas lidas, 329,120 emissões carregadas (acumulado).
+BA.zip: 661,553 linhas lidas, 634,332 emissões carregadas (acumulado).
+CE.zip: 953,707 linhas lidas, 920,196 emissões carregadas (acumulado).
+DF.zip: 1,065,166 linhas lidas, 1,028,712 emissões carregadas (acumulado).
+ES.zip: 1,303,772 linhas lidas, 1,263,117 emissões carregadas (acumulado).
+GO.zip: 1,567,929 linhas lidas, 1,517,600 emissões carregadas (acumulado).
+MA.zip: 1,894,797 linhas lidas, 1,836,720 emissões carregadas (acumulado).
+MG.zip: 2,981,217 linhas lidas, 2,855,859 emissões carregadas (acumulado).
+MS.zip: 3,144,198 linhas lidas, 3,016,567 emissões carregadas (acumulado).
+MT.zip: 3,266,743 linhas lidas, 3,136,178 emissões carregadas (acumulado).
+PA.zip: 3,525,123 linhas lidas, 3,379,328 emissões carregadas (acumulado).
+PB.zip: 3,579,210 linhas lidas, 3,431,043 emissões carregadas (acumulado).
+PE.zip: 3,719,857 linhas lidas, 3,566,005 emissões carregadas (acumulado).
+PI.zip: 3,764,305 linhas lidas, 3,608,647 emissões carregadas (acumulado).
+PR.zip: 4,226,239 linhas lidas, 4,058,584 emissões carregadas (acumulado).
+RJ.zip: 4,736,143 linhas lidas, 4,548,372 emissões carregadas (acumulado).
+RN.zip: 4,785,864 linhas lidas, 4,594,944 emissões carregadas (acumulado).
+RO.zip: 4,822,953 linhas lidas, 4,631,416 emissões carregadas (acumulado).
+RR.zip: 4,832,124 linhas lidas, 4,639,930 emissões carregadas (acumulado).
+RS.zip: 5,104,939 linhas lidas, 4,894,094 emissões carregadas (acumulado).
+SC.zip: 5,357,915 linhas lidas, 5,137,902 emissões carregadas (acumulado).
+SE.zip: 5,395,129 linhas lidas, 5,173,279 emissões carregadas (acumulado).
+SP.zip: 7,718,728 linhas lidas, 7,429,000 emissões carregadas (acumulado).
+TO.zip: 7,760,505 linhas lidas, 7,468,991 emissões carregadas (acumulado).
+Concluído em 00:05:41.7577946: 904265 estações, 7468991 emissões, 0 rejeições, 291514 duplicatas. Banco: /workspace/db/chatgpt_gpt6_zeroshot_r1.db
+
+
