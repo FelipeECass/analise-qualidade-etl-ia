@@ -9,7 +9,7 @@
 #>
 param(
   [string]$TccRoot    = 'D:\Projects\TCC',
-  [string]$Comparador = 'D:\Projects\TCC_GitHub\comparator\src\Comparador\bin\Release\net10.0\Comparador.dll',
+  [string]$Comparador = 'D:\Projects\TCC_GitHub\scripts\comparator\src\Comparador\bin\Release\net10.0\Comparador.dll',
   [string]$Gabarito   = 'D:\Projects\TCC_GitHub\db\base.db',
   [string]$Ddl        = 'D:\Projects\TCC_GitHub\db\DDL.sql',
   [string]$Saida      = 'D:\Projects\TCC\resultados_reavaliacao'
