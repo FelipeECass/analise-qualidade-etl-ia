@@ -1,7 +1,7 @@
 ﻿<#
   sonar-tcc.ps1
   Analisa no SonarQube local o código final de cada execução em
-  D:\Projects\TCC\runs\<modelo>\<esforço>\<prompt>\run-NN\src\<solução>
+  D:\Projects\TCC_GitHub\TCC\runs\<modelo>\<esforço>\<prompt>\run-NN\src\<solução>
   e exporta as métricas para um CSV.
 
   Uso:
@@ -26,14 +26,14 @@
   porque entram sem esforço de correção e dependem do .csproj gerado pelo modelo.
 #>
 param(
-    [string]$TccRoot  = "D:\Projects\TCC",
+    [string]$TccRoot  = "D:\Projects\TCC_GitHub\TCC",
     [string]$Modelo,
     [string]$Esforco,
     [string]$Prompt,
     [int]$Execucao    = 0,
     [string]$SonarUrl = "http://localhost:9000",
     [string]$Token    = $env:SONAR_TOKEN,
-    [string]$OutCsv   = "D:\Projects\TCC\sonar_metricas.csv",
+    [string]$OutCsv   = "D:\Projects\TCC_GitHub\TCC\sonar_metricas.csv",
     [switch]$SkipAnalysis
 )
 

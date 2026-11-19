@@ -14,9 +14,9 @@
     powershell -ExecutionPolicy Bypass -File .\experimento.ps1
 
   Pode ser interrompido e rodado de novo: execuções já concluídas são puladas e a que
-  estava em andamento é refeita do zero. Andamento em D:\Projects\TCC\experimento_openai.log
+  estava em andamento é refeita do zero. Andamento em D:\Projects\TCC_GitHub\TCC\experimento_openai.log
   (estado em experimento_openai_estado.json, separado do experimento do Claude)
-  Tentativas que falharam vão para D:\Projects\TCC\_falhas (para diagnóstico).
+  Tentativas que falharam vão para D:\Projects\TCC_GitHub\TCC\_falhas (para diagnóstico).
 #>
 param(
   [int]$MaxIteracoes    = 20,   # limite de iterações por execução (1 + re-prompts)
@@ -36,7 +36,7 @@ $Prompts  = @('zero_shot.md', 'completo.md')
 $Geracoes = 1..3
 # ---------------------------------------------------------------------------------
 
-$TccRoot    = 'D:\Projects\TCC'
+$TccRoot    = 'D:\Projects\TCC_GitHub\TCC'
 $EstadoPath = Join-Path $TccRoot 'experimento_openai_estado.json'
 $LogPath    = Join-Path $TccRoot 'experimento_openai.log'
 $RunPs1     = Join-Path $PSScriptRoot 'run.ps1'

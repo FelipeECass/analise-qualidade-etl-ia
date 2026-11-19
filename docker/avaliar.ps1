@@ -24,7 +24,7 @@ param(
 $ErrorActionPreference = 'Stop'
 
 # ---- Caminhos (ajuste se precisar) -------------------------------------------
-$TccRoot    = 'D:\Projects\TCC'
+$TccRoot    = 'D:\Projects\TCC_GitHub\TCC'
 $FilesDir   = Join-Path $TccRoot 'base\files'
 $GabDir     = 'D:\Projects\TCC_GitHub\db'           # base.db (gabarito) e DDL.sql
 $Comparador = 'D:\Projects\TCC_GitHub\scripts\comparator\src\Comparador\bin\Release\net10.0'

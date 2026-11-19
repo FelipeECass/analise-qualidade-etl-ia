@@ -1,7 +1,7 @@
 ﻿<#
   tokens-openai.ps1
   Versão do tokens-tcc.ps1 para o Codex (OpenAI). Lê as sessões brutas do Codex (rollout JSONL)
-  de cada execução em D:\Projects\TCC\logs e gera:
+  de cada execução em D:\Projects\TCC_GitHub\TCC\logs e gera:
     - tokens_metricas_openai.csv : uma linha por execução (tokens, chamadas, tempo e interações)
     - interacoes_openai.csv      : uma linha por interação humana fora do protocolo
                                    (pergunta do modelo, mensagem digitada, aprovação, interrupção)
@@ -27,9 +27,9 @@
   (mensagens que começam com o texto padrão do feedback do Comparador).
 #>
 param(
-  [string]$LogsRoot      = 'D:\Projects\TCC\logs',
-  [string]$OutCsv        = 'D:\Projects\TCC\tokens_metricas_openai.csv',
-  [string]$InteracoesCsv = 'D:\Projects\TCC\interacoes_openai.csv',
+  [string]$LogsRoot      = 'D:\Projects\TCC_GitHub\TCC\logs',
+  [string]$OutCsv        = 'D:\Projects\TCC_GitHub\TCC\tokens_metricas_openai.csv',
+  [string]$InteracoesCsv = 'D:\Projects\TCC_GitHub\TCC\interacoes_openai.csv',
   [string]$ReprompPrefixo = 'A solução não atingiu o critério de aceitação',
   [string]$PadraoPrefixo  = 'Não há ninguém disponível para responder perguntas'
 )

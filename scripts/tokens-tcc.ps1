@@ -1,6 +1,6 @@
 ﻿<#
   tokens-tcc.ps1
-  Lê as sessões brutas do Claude (JSONL) de cada execução em D:\Projects\TCC\logs e gera:
+  Lê as sessões brutas do Claude (JSONL) de cada execução em D:\Projects\TCC_GitHub\TCC\logs e gera:
     - tokens_metricas.csv : uma linha por execução (tokens, chamadas, tempo e interações)
     - interacoes.csv      : uma linha por interação humana fora do protocolo
                             (pergunta do modelo + sua resposta, mensagem digitada, aprovação de permissão, interrupção)
@@ -13,9 +13,9 @@
   (mensagens que começam com o texto padrão do feedback do Comparador).
 #>
 param(
-  [string]$LogsRoot      = 'D:\Projects\TCC\logs',
-  [string]$OutCsv        = 'D:\Projects\TCC\tokens_metricas.csv',
-  [string]$InteracoesCsv = 'D:\Projects\TCC\interacoes.csv',
+  [string]$LogsRoot      = 'D:\Projects\TCC_GitHub\TCC\logs',
+  [string]$OutCsv        = 'D:\Projects\TCC_GitHub\TCC\tokens_metricas.csv',
+  [string]$InteracoesCsv = 'D:\Projects\TCC_GitHub\TCC\interacoes.csv',
   [string]$ReprompPrefixo = 'A solução não atingiu o critério de aceitação',
   [string]$PadraoPrefixo  = 'Não há ninguém disponível para responder perguntas'
 )

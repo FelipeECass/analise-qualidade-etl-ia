@@ -16,9 +16,9 @@
     powershell -ExecutionPolicy Bypass -File .\juntar-tokens.ps1
 #>
 param(
-  [string]$ClaudeCsv = 'D:\Projects\TCC\tokens_metricas.csv',
-  [string]$OpenAICsv = 'D:\Projects\TCC\tokens_metricas_openai.csv',
-  [string]$OutCsv    = 'D:\Projects\TCC\tokens_metricas_todos.csv'
+  [string]$ClaudeCsv = 'D:\Projects\TCC_GitHub\TCC\tokens_metricas.csv',
+  [string]$OpenAICsv = 'D:\Projects\TCC_GitHub\TCC\tokens_metricas_openai.csv',
+  [string]$OutCsv    = 'D:\Projects\TCC_GitHub\TCC\tokens_metricas_todos.csv'
 )
 $ErrorActionPreference = 'Stop'
 

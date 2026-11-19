@@ -1,5 +1,5 @@
 # sonar-tcc.ps1
-# Analisa cada pasta de D:\Projects\TCC\src no SonarQube local e exporta as metricas para um CSV.
+# Analisa cada pasta de D:\Projects\TCC_GitHub\TCC\src no SonarQube local e exporta as metricas para um CSV.
 #
 # Uso:
 #   $env:SONAR_TOKEN = "sqa_..."
@@ -9,10 +9,10 @@
 #   powershell -ExecutionPolicy Bypass -File .\sonar-tcc.ps1 -SkipAnalysis
 
 param(
-    [string]$SrcRoot  = "D:\Projects\TCC\src",
+    [string]$SrcRoot  = "D:\Projects\TCC_GitHub\TCC\src",
     [string]$SonarUrl = "http://localhost:9000",
     [string]$Token    = $env:SONAR_TOKEN,
-    [string]$OutCsv   = "D:\Projects\TCC\sonar_metricas.csv",
+    [string]$OutCsv   = "D:\Projects\TCC_GitHub\TCC\sonar_metricas.csv",
     [switch]$SkipAnalysis
 )
 

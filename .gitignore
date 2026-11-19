@@ -22,3 +22,6 @@ undefined/
 .claude/
 Thumbs.db
 .DS_Store
+
+# Raiz de execução (runs, logs, falhas: ~140 GB). Versionado só em solucoes/ e resultados/
+TCC/

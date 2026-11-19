@@ -13,7 +13,7 @@ const string Uso = """
     comparar: só compara <workspace>\db\<solução>.db (ou --solucao). Com --erros, registra a falha sem ler o banco.
 
     Opções (padrões entre parênteses):
-      --workspace (D:\Projects\TCC)   --gabarito (D:\Projects\TCC_GitHub\db\base.db)
+      --workspace (D:\Projects\TCC_GitHub\TCC)   --gabarito (D:\Projects\TCC_GitHub\db\base.db)
       --ddl (D:\Projects\TCC_GitHub\db\DDL.sql)   --saida (D:\Projects\TCC_GitHub\comparator\resultados)
       --solucao (<workspace>\db\<solução>.db)
 
@@ -49,7 +49,7 @@ if (faltando.Count > 0)
 
 string Opcao(string k, string padrao) => o.GetValueOrDefault(k) ?? padrao;
 var id = new Identificacao(o["empresa"], o["modelo"], o["condicao"], o["geracao"], o["iteracao"]);
-var workspace = Opcao("workspace", @"D:\Projects\TCC");
+var workspace = Opcao("workspace", @"D:\Projects\TCC_GitHub\TCC");
 var gabarito = Opcao("gabarito", @"D:\Projects\TCC_GitHub\db\base.db");
 var ddl = Opcao("ddl", @"D:\Projects\TCC_GitHub\db\DDL.sql");
 var saida = Opcao("saida", @"D:\Projects\TCC_GitHub\comparator\resultados");

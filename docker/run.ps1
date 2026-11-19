@@ -33,7 +33,7 @@ param(
 $ErrorActionPreference = 'Stop'
 
 # ---- Caminhos (ajuste se precisar) -------------------------------------------
-$TccRoot    = 'D:\Projects\TCC'
+$TccRoot    = 'D:\Projects\TCC_GitHub\TCC'
 $BaseDir    = Join-Path $TccRoot 'base'            # base\src\DDL.sql e base\files\...
 $PromptsDir = 'D:\Projects\TCC_GitHub\docs\propmts'
 $Image      = 'tcc-claude'
